@@ -1,0 +1,1140 @@
+sexe;formation;usage_vehicule;type_vehicule;type_conduite;formule;date_demande;points_perdus;Age du vehicule;id_client;Tranche d'âge;Enfants;conduite accompagnee;vehicule rouge;tranche revenus;tranche tarifs_devis;code postal
+F;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;25/02/2022;0;7;6226812;18-29 ans;oui;non;non;120000-129999;320-340;40180
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;24/05/2022;2;1;8918777;80 et plus;oui;oui;non;50000-59999;240-260;03000
+F;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_express;24/01/2022;0;4;1728446;40-49 ans;oui;non;non;20000-29999;240-260;04800
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;20/04/2022;3;5;1569859;Moins de 18 ans;non;non;non;inconnu;300-320;06370
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_vip;23/03/2022;2;12;1337373;60-69 ans;non;non;non;inconnu;640-660;19100
+F;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;23/03/2022;2;15;3074331;30-39 ans;oui;non;non;70000-79999;440-460;70250
+F;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;13/03/2022;0;9;3949521;80 et plus;oui;oui;non;130000-139999;260-280;58000
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;09/03/2022;1;10;8844569;60-69 ans;non;non;non;50000-59999;340-360;73460
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_premium;29/01/2022;0;14;5891455;60-69 ans;non;non;non;110000-119999;380-400;30800
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;26/03/2022;1;10;3142892;50-59 ans;non;non;oui;inconnu;300-320;47510
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;26/05/2022;0;10;8827256;50-59 ans;oui;oui;non;20000-29999;260-280;83500
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;27/01/2022;0;1;3058503;Moins de 18 ans;oui;non;non;20000-29999;380-400;inconnu
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;08/05/2022;0;18;7598925;70-79 ans;non;non;non;70000-79999;240-260;23800
+M;z_High School;Commercial;Van;z_Highly Rural/ Rural;dev_integral;02/05/2022;5;6;5532928;Moins de 18 ans;non;non;non;inconnu;300-320;13080
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;15/04/2022;0;1;9112906;70-79 ans;oui;non;non;30000-39999;300-320;68790
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;11/05/2022;0;13;7055242;80 et plus;non;non;non;40000-49999;260-280;81100
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;12/04/2022;0;15;3546258;50-59 ans;non;non;non;100000-109999;320-340;75018
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;04/03/2022;1;8;2505584;80 et plus;non;non;oui;50000-59999;260-280;78210
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;05/02/2022;0;11;2937833;70-79 ans;non;non;oui;70000-79999;260-280;95470
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;25/04/2022;0;10;9690499;80 et plus;non;non;non;40000-49999;280-300;16410
+M;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_express;20/03/2022;0;16;4761982;30-39 ans;oui;non;non;60000-69999;260-280;02270
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_premium;27/03/2022;1;;4300582;80 et plus;oui;oui;non;20000-29999;360-380;69100
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_premium;16/05/2022;0;7;8326660;18-29 ans;non;non;oui;inconnu;360-380;46000
+F;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_premium;06/02/2022;5;1;3821899;80 et plus;oui;non;non;40000-49999;440-460;33700
+M;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;27/04/2022;1;1;9269085;18-29 ans;non;non;non;20000-29999;260-280;93380
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;13/04/2022;1;;4449049;60-69 ans;non;non;oui;inconnu;240-260;18000
+F;<High School;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;22/03/2022;0;1;2563230;18-29 ans;non;non;non;40000-49999;280-300;53950
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;22/04/2022;5;;9377821;40-49 ans;non;non;non;70000-79999;280-300;87510
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_vip;23/03/2022;0;1;3286599;50-59 ans;non;non;non;50000-59999;860-880;95220
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;12/02/2022;0;17;6599192;18-29 ans;non;non;non;100000-109999;340-360;23100
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;14/01/2022;0;1;2031939;50-59 ans;oui;non;non;30000-39999;240-260;60500
+M;<High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;09/04/2022;6;5;8180873;40-49 ans;oui;non;oui;20000-29999;320-340;58200
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;23/03/2022;3;9;9387108;60-69 ans;non;non;non;110000-119999;240-260;70130
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;04/02/2022;2;6;7007125;Moins de 18 ans;non;non;non;30000-39999;400-420;49610
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;05/02/2022;0;12;4597131;40-49 ans;oui;oui;non;70000-79999;260-280;02240
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;08/02/2022;0;9;7449736;70-79 ans;non;non;non;20000-29999;300-320;74290
+F;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_express;06/02/2022;0;15;7245524;60-69 ans;non;non;non;30000-39999;260-280;74500
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;09/02/2022;2;14;2923915;Moins de 18 ans;oui;non;non;90000-99999;280-300;93240
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;26/05/2022;0;15;8995710;50-59 ans;non;non;non;150000-159999;280-300;25400
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;04/03/2022;1;11;5380695;30-39 ans;non;non;non;50000-59999;400-420;88260
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;31/05/2022;0;10;4628199;18-29 ans;oui;oui;non;inconnu;260-280;95490
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;30/04/2022;5;8;6204740;80 et plus;oui;non;non;0-9999;240-260;83370
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_express;20/03/2022;0;10;9585552;60-69 ans;oui;non;oui;0-9999;260-280;10000
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_premium;02/04/2022;0;;5461407;60-69 ans;oui;oui;oui;50000-59999;400-420;58180
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;02/01/2022;0;13;6590724;50-59 ans;non;non;non;70000-79999;320-340;90300
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;24/02/2022;4;15;8117242;60-69 ans;non;non;non;90000-99999;260-280;23000
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;05/04/2022;1;1;5916172;70-79 ans;oui;non;non;inconnu;260-280;92140
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;21/02/2022;1;13;3181084;40-49 ans;non;non;oui;140000-149999;300-320;25400
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;21/03/2022;0;7;1324058;70-79 ans;non;non;oui;80000-89999;280-300;27400
+F;<High School;Private;Van;z_Highly Rural/ Rural;dev_integral;03/04/2022;1;1;1126229;40-49 ans;oui;oui;oui;50000-59999;280-300;56600
+F;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;28/03/2022;7;1;9067333;18-29 ans;non;non;oui;20000-29999;300-320;53000
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;21/03/2022;1;5;5517407;50-59 ans;oui;non;non;40000-49999;260-280;49280
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;23/05/2022;0;7;9958515;18-29 ans;non;non;non;100000-109999;280-300;66000
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;03/05/2022;0;19;5109845;40-49 ans;non;non;non;50000-59999;260-280;11170
+F;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;11/04/2022;5;8;4352614;Moins de 18 ans;non;non;non;70000-79999;260-280;61110
+M;PhD;Private;Van;Highly Urban/ Urban;dev_premium;05/01/2022;0;13;7480896;50-59 ans;non;non;non;70000-79999;360-380;07100
+F;Masters;Commercial;Van;Highly Urban/ Urban;dev_integral;14/05/2022;4;9;4471829;50-59 ans;oui;non;oui;40000-49999;280-300;42410
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;20/04/2022;2;12;3781853;30-39 ans;non;non;non;60000-69999;240-260;75002
+F;z_High School;Private;Van;Highly Urban/ Urban;dev_express;22/01/2022;0;1;1475468;70-79 ans;oui;oui;oui;30000-39999;260-280;42170
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;26/04/2022;1;7;9188368;30-39 ans;oui;oui;non;30000-39999;240-260;81270
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;23/03/2022;0;16;8904274;70-79 ans;non;non;non;80000-89999;280-300;54460
+F;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_express;27/04/2022;0;8;4469434;50-59 ans;non;non;non;40000-49999;240-260;62470
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;24/05/2022;0;5;2886772;70-79 ans;oui;non;non;60000-69999;280-300;63800
+F;<High School;Private;Sports Car;Highly Urban/ Urban;dev_express;09/05/2022;0;1;4749878;80 et plus;oui;non;non;20000-29999;240-260;46110
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;22/04/2022;0;6;7721448;Moins de 18 ans;non;non;non;10000-19999;280-300;50110
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;17/05/2022;5;1;2575747;50-59 ans;non;non;non;60000-69999;240-260;33270
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_express;01/05/2022;0;7;2337296;70-79 ans;non;non;non;80000-89999;260-280;56160
+M;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;29/05/2022;3;5;1671953;50-59 ans;non;non;non;0-9999;240-260;93500
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;04/04/2022;2;13;8267728;70-79 ans;oui;non;oui;20000-29999;240-260;23000
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;27/01/2022;1;3;1471841;18-29 ans;non;non;non;80000-89999;300-320;58640
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;13/01/2022;0;9;3748113;Moins de 18 ans;non;non;non;70000-79999;300-320;43120
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;08/01/2022;2;12;5033142;30-39 ans;non;non;non;190000-199999;260-280;82000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;05/04/2022;2;9;6527583;Moins de 18 ans;non;non;oui;90000-99999;280-300;56300
+F;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_premium;14/02/2022;2;9;6331258;80 et plus;oui;non;non;70000-79999;480-500;17590
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_express;14/01/2022;0;8;6583903;80 et plus;non;non;non;40000-49999;240-260;39220
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;20/04/2022;1;18;5231342;30-39 ans;non;non;non;110000-119999;300-320;20290
+F;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;10/05/2022;5;1;7215348;70-79 ans;non;non;non;70000-79999;260-280;01000
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;24/01/2022;4;11;1559676;50-59 ans;non;non;non;40000-49999;380-400;47240
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;01/02/2022;4;6;6205469;50-59 ans;non;non;non;40000-49999;240-260;31130
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_premium;20/04/2022;1;1;3560525;60-69 ans;non;non;oui;110000-119999;360-380;48200
+M;z_High School;Private;Sports Car;z_Highly Rural/ Rural;dev_express;02/01/2022;0;3;6042048;80 et plus;non;non;non;0-9999;260-280;90300
+M;z_High School;Commercial;Van;z_Highly Rural/ Rural;dev_express;18/02/2022;0;8;5854052;60-69 ans;non;non;oui;100000-109999;260-280;04180
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;27/04/2022;0;4;5559802;60-69 ans;oui;non;non;30000-39999;240-260;01440
+M;<High School;Private;Sports Car;z_Highly Rural/ Rural;dev_express;09/05/2022;1;;6376052;60-69 ans;non;non;non;10000-19999;240-260;31770
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;14/01/2022;2;8;2112065;60-69 ans;non;non;oui;50000-59999;280-300;61250
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;30/03/2022;0;9;8432638;40-49 ans;non;non;oui;40000-49999;260-280;58260
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;25/01/2022;0;17;6520579;50-59 ans;non;non;non;inconnu;460-480;09000
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;28/05/2022;0;1;6619956;18-29 ans;oui;oui;non;20000-29999;240-260;48000
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;12/02/2022;0;13;3362583;50-59 ans;non;non;non;40000-49999;540-560;42390
+M;Masters;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;11/01/2022;0;2;8127189;50-59 ans;oui;non;non;40000-49999;280-300;41400
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;15/04/2022;3;1;9800389;80 et plus;non;non;non;50000-59999;260-280;67600
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_premium;28/03/2022;1;1;4087502;Moins de 18 ans;oui;non;non;20000-29999;360-380;80480
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_premium;26/02/2022;6;1;3821153;Moins de 18 ans;non;non;non;80000-89999;460-480;04300
+M;z_High School;Private;Van;Highly Urban/ Urban;dev_express;17/01/2022;0;1;2135703;60-69 ans;non;non;oui;50000-59999;260-280;55310
+F;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;16/04/2022;4;11;7359066;70-79 ans;non;non;non;60000-69999;280-300;84110
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;12/01/2022;1;5;8291915;50-59 ans;non;non;oui;30000-39999;300-320;74500
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;23/03/2022;7;1;6437452;60-69 ans;non;non;non;30000-39999;260-280;45000
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;17/04/2022;0;6;6168724;30-39 ans;oui;oui;oui;50000-59999;280-300;40000
+M;PhD;Private;Van;Highly Urban/ Urban;dev_integral;05/05/2022;1;8;6504186;40-49 ans;oui;non;oui;60000-69999;320-340;12630
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;28/02/2022;0;1;1243635;18-29 ans;non;non;non;60000-69999;320-340;49125
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;12/02/2022;2;12;8484897;60-69 ans;oui;non;non;10000-19999;300-320;64130
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;07/01/2022;0;1;9001617;18-29 ans;oui;non;non;50000-59999;300-320;01090
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;07/01/2022;6;11;1374546;50-59 ans;non;non;non;120000-129999;300-320;19100
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;12/01/2022;4;17;3527517;Moins de 18 ans;non;non;oui;210000-219999;280-300;12000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_premium;24/05/2022;1;12;8584598;60-69 ans;non;non;oui;70000-79999;440-460;05330
+M;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;25/03/2022;0;14;3455829;18-29 ans;oui;non;oui;inconnu;280-300;86280
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;02/01/2022;0;5;6873087;70-79 ans;oui;oui;non;10000-19999;320-340;37130
+M;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;01/03/2022;1;12;1786570;40-49 ans;oui;non;oui;60000-69999;300-320;28140
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;28/01/2022;5;11;1988998;50-59 ans;oui;non;oui;130000-139999;260-280;48220
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;29/04/2022;0;9;1474426;80 et plus;non;non;non;10000-19999;360-380;29820
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;20/01/2022;0;9;3855501;50-59 ans;non;non;non;70000-79999;280-300;31120
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_express;06/05/2022;0;12;6654468;50-59 ans;oui;oui;non;100000-109999;240-260;13140
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;14/03/2022;0;8;9014061;70-79 ans;oui;non;non;0-9999;260-280;45380
+F;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;20/03/2022;2;6;7867902;60-69 ans;oui;non;non;40000-49999;280-300;70800
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;18/01/2022;0;14;5238471;50-59 ans;non;non;non;90000-99999;340-360;41290
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_premium;23/01/2022;0;1;1056771;50-59 ans;oui;oui;non;20000-29999;480-500;84740
+F;Bachelors;Private;Sports Car;z_Highly Rural/ Rural;dev_express;07/01/2022;0;11;9904613;80 et plus;oui;oui;non;40000-49999;260-280;20290
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_integral;02/01/2022;0;7;8336785;60-69 ans;oui;oui;non;10000-19999;300-320;30190
+M;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;23/05/2022;2;1;5934002;Moins de 18 ans;oui;oui;non;50000-59999;320-340;74150
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;29/05/2022;0;15;5691222;Moins de 18 ans;non;non;non;70000-79999;300-320;04220
+M;PhD;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;09/02/2022;0;13;1566141;70-79 ans;non;non;non;inconnu;300-320;93700
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;17/02/2022;2;11;4467217;50-59 ans;oui;non;oui;90000-99999;260-280;28300
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;06/05/2022;0;12;7475656;70-79 ans;non;non;non;100000-109999;320-340;88110
+F;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;25/01/2022;0;11;3306323;50-59 ans;non;non;oui;60000-69999;320-340;01800
+F;Masters;Private;Van;Highly Urban/ Urban;dev_integral;01/01/2022;4;9;3905099;30-39 ans;oui;non;non;20000-29999;320-340;42400
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;02/04/2022;0;8;6415449;30-39 ans;non;non;non;90000-99999;280-300;04000
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;14/04/2022;2;1;4494739;70-79 ans;non;non;non;100000-109999;280-300;81100
+M;z_High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;07/03/2022;7;1;2206629;18-29 ans;non;non;oui;inconnu;260-280;75015
+M;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_premium;04/04/2022;1;;3823861;18-29 ans;non;non;non;50000-59999;500-520;66220
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;20/04/2022;1;13;6920805;60-69 ans;non;non;non;130000-139999;240-260;12800
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;25/02/2022;0;13;4727498;70-79 ans;oui;non;non;inconnu;260-280;61110
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_vip;28/05/2022;8;9;6239191;70-79 ans;oui;non;non;30000-39999;620-640;21800
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;18/03/2022;0;1;7738135;Moins de 18 ans;oui;non;non;0-9999;240-260;88300
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;25/02/2022;3;5;1474005;50-59 ans;non;non;oui;20000-29999;240-260;17600
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;08/04/2022;0;9;3764853;Moins de 18 ans;oui;oui;non;40000-49999;280-300;74250
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;01/05/2022;0;16;9230307;80 et plus;oui;non;non;90000-99999;300-320;48200
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_integral;27/03/2022;2;15;8120986;Moins de 18 ans;non;non;oui;40000-49999;320-340;10600
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_express;11/05/2022;4;9;2878817;30-39 ans;oui;oui;non;120000-129999;260-280;47300
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;31/05/2022;4;1;2277336;50-59 ans;oui;non;non;40000-49999;260-280;52100
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_premium;24/04/2022;6;7;3428564;40-49 ans;oui;non;non;inconnu;500-520;72170
+M;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;06/03/2022;2;9;4307112;50-59 ans;non;non;non;80000-89999;300-320;44420
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;18/02/2022;0;9;6404453;50-59 ans;non;non;non;110000-119999;280-300;79000
+F;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;05/01/2022;0;12;3679774;Moins de 18 ans;oui;non;oui;140000-149999;320-340;10120
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;19/02/2022;5;15;7317251;80 et plus;non;non;non;40000-49999;540-560;11120
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;21/05/2022;7;;4832865;80 et plus;oui;non;non;inconnu;260-280;46000
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;13/05/2022;2;11;8106420;50-59 ans;non;non;non;20000-29999;260-280;78800
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;20/02/2022;0;7;9790951;60-69 ans;non;non;non;80000-89999;320-340;74930
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;16/04/2022;1;10;7436898;40-49 ans;oui;oui;non;20000-29999;280-300;25000
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;03/03/2022;0;19;4377112;70-79 ans;non;non;non;90000-99999;280-300;23600
+F;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_express;26/02/2022;0;15;7618116;70-79 ans;non;non;non;90000-99999;260-280;71400
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;19/02/2022;0;10;5688965;70-79 ans;non;non;non;40000-49999;320-340;42300
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;05/03/2022;2;5;2837236;60-69 ans;non;non;non;60000-69999;260-280;46100
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;11/01/2022;3;1;6224828;60-69 ans;oui;non;oui;inconnu;240-260;35590
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;25/03/2022;1;4;4015375;30-39 ans;non;non;non;30000-39999;240-260;80400
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;22/02/2022;0;9;2912127;70-79 ans;oui;non;oui;30000-39999;280-300;91100
+M;PhD;Commercial;Van;Highly Urban/ Urban;dev_integral;14/01/2022;0;12;7574026;80 et plus;oui;oui;oui;140000-149999;300-320;35300
+F;<High School;Private;Sports Car;Highly Urban/ Urban;dev_express;08/04/2022;5;4;1367480;70-79 ans;oui;non;non;10000-19999;240-260;81000
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;17/04/2022;0;15;8173103;70-79 ans;non;non;non;70000-79999;320-340;28700
+M;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;14/05/2022;0;9;3275395;80 et plus;non;non;oui;110000-119999;320-340;49000
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;02/02/2022;6;1;2953624;60-69 ans;non;non;non;80000-89999;280-300;66000
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;21/05/2022;0;8;1643470;70-79 ans;oui;oui;non;80000-89999;280-300;95610
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;09/03/2022;2;12;6901151;30-39 ans;non;non;non;110000-119999;440-460;24100
+F;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_integral;27/02/2022;1;12;1360318;50-59 ans;oui;oui;non;150000-159999;320-340;70100
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;03/04/2022;0;14;6742011;70-79 ans;oui;non;non;40000-49999;300-320;44320
+F;Bachelors;Private;Sports Car;z_Highly Rural/ Rural;dev_express;02/04/2022;1;8;4955150;50-59 ans;non;non;non;inconnu;240-260;66370
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;08/04/2022;1;1;9402317;50-59 ans;oui;oui;non;inconnu;240-260;24100
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;31/05/2022;0;17;6902998;80 et plus;oui;non;non;70000-79999;280-300;33000
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;16/05/2022;0;4;7295000;18-29 ans;oui;non;oui;40000-49999;280-300;59290
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;22/04/2022;1;;2900371;50-59 ans;non;non;non;120000-129999;280-300;14400
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;30/05/2022;2;11;5533219;70-79 ans;non;non;non;20000-29999;320-340;92110
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_express;01/02/2022;1;11;7025515;40-49 ans;oui;non;oui;70000-79999;240-260;25000
+F;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;31/05/2022;2;1;3014224;30-39 ans;non;non;non;0-9999;320-340;04370
+M;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;16/02/2022;0;11;5083849;50-59 ans;non;non;non;80000-89999;320-340;34400
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;21/05/2022;0;20;5789965;50-59 ans;oui;non;oui;60000-69999;320-340;90100
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;26/04/2022;2;1;6329960;50-59 ans;non;non;non;0-9999;260-280;42800
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;14/01/2022;6;;1122315;70-79 ans;non;non;non;110000-119999;280-300;11220
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_express;16/02/2022;0;12;7215967;60-69 ans;non;non;non;inconnu;240-260;62217
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;01/01/2022;0;16;4447275;30-39 ans;non;non;non;inconnu;260-280;14220
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;14/01/2022;0;1;6899481;60-69 ans;oui;non;non;10000-19999;280-300;26000
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_premium;10/05/2022;0;6;5957134;50-59 ans;oui;non;oui;40000-49999;520-540;07700
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_express;02/05/2022;1;;5826559;80 et plus;non;non;non;60000-69999;280-300;13080
+F;z_High School;Commercial;Van;z_Highly Rural/ Rural;dev_express;10/02/2022;1;6;5084596;18-29 ans;oui;oui;non;30000-39999;260-280;56340
+M;Bachelors;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;08/01/2022;0;13;2704226;50-59 ans;non;non;oui;170000-179999;300-320;16120
+F;PhD;Private;Van;Highly Urban/ Urban;dev_premium;12/01/2022;0;10;5278632;80 et plus;non;non;oui;110000-119999;320-340;64000
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;27/05/2022;1;1;4021345;60-69 ans;non;non;oui;0-9999;260-280;inconnu
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_premium;10/04/2022;6;5;1201206;18-29 ans;oui;oui;non;40000-49999;440-460;27130
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;23/03/2022;0;1;5896578;60-69 ans;non;non;non;20000-29999;320-340;59142
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;24/05/2022;0;9;9760431;18-29 ans;oui;non;non;10000-19999;320-340;03310
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;05/01/2022;0;1;3536139;70-79 ans;non;non;non;10000-19999;460-480;28000
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_vip;17/05/2022;0;11;6906892;Moins de 18 ans;non;non;non;80000-89999;540-560;79500
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_express;30/05/2022;5;;7741210;50-59 ans;non;non;oui;70000-79999;240-260;06510
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_premium;25/01/2022;3;1;2450457;Moins de 18 ans;non;non;non;20000-29999;480-500;35000
+F;Masters;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;30/01/2022;0;7;7355174;60-69 ans;non;non;non;120000-129999;300-320;51300
+F;z_High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;04/01/2022;1;1;5736529;30-39 ans;non;non;non;50000-59999;480-500;13080
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;11/02/2022;0;15;1971025;50-59 ans;non;non;non;170000-179999;320-340;93100
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_premium;07/04/2022;3;7;8476015;60-69 ans;oui;non;non;50000-59999;340-360;39000
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;09/02/2022;4;17;6080341;50-59 ans;oui;non;non;50000-59999;260-280;28300
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;27/04/2022;2;13;2766172;80 et plus;non;non;non;100000-109999;260-280;48000
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;25/05/2022;0;4;2726515;50-59 ans;oui;non;non;30000-39999;300-320;25200
+F;z_High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;10/02/2022;0;;7861642;60-69 ans;non;non;non;30000-39999;240-260;84160
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;14/03/2022;9;8;9608523;Moins de 18 ans;non;non;oui;40000-49999;240-260;42680
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;11/05/2022;4;7;2211369;70-79 ans;non;non;oui;60000-69999;300-320;37800
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_premium;09/04/2022;0;1;2773608;60-69 ans;oui;oui;oui;40000-49999;400-420;09500
+F;Bachelors;Commercial;z_SUV;z_Highly Rural/ Rural;dev_premium;14/04/2022;2;14;4501245;70-79 ans;non;non;non;50000-59999;520-540;27310
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;18/04/2022;3;7;8521302;80 et plus;oui;non;non;30000-39999;260-280;80430
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;23/03/2022;0;1;1609787;50-59 ans;non;non;oui;50000-59999;260-280;04800
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;09/05/2022;6;;7471545;80 et plus;non;non;oui;60000-69999;300-320;51000
+M;Bachelors;Private;Minivan;z_Highly Rural/ Rural;dev_express;04/02/2022;0;12;6496895;60-69 ans;non;non;non;20000-29999;240-260;52100
+M;z_High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;19/04/2022;1;8;3605554;60-69 ans;oui;oui;oui;30000-39999;520-540;20000
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;03/04/2022;0;5;9563944;50-59 ans;oui;non;non;30000-39999;320-340;91390
+F;Bachelors;Private;Minivan;z_Highly Rural/ Rural;dev_integral;18/01/2022;1;8;4178728;18-29 ans;oui;oui;non;50000-59999;280-300;24130
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;23/03/2022;1;16;9300287;50-59 ans;non;non;oui;110000-119999;260-280;01190
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;02/05/2022;1;;2890112;60-69 ans;non;non;oui;40000-49999;280-300;58490
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;19/01/2022;1;5;2567622;50-59 ans;non;non;non;40000-49999;240-260;09100
+M;z_High School;Commercial;Van;Highly Urban/ Urban;dev_integral;15/02/2022;5;;9698484;50-59 ans;oui;non;non;40000-49999;280-300;47300
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;03/01/2022;0;13;7416823;60-69 ans;non;non;non;100000-109999;500-520;56860
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;27/03/2022;2;6;9932358;50-59 ans;oui;non;oui;20000-29999;240-260;01000
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;02/04/2022;8;19;4246497;Moins de 18 ans;non;non;non;70000-79999;400-420;92250
+M;<High School;Private;Sports Car;Highly Urban/ Urban;dev_premium;30/04/2022;0;1;1341281;60-69 ans;non;non;non;20000-29999;500-520;82100
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;07/04/2022;1;1;6343574;70-79 ans;oui;oui;non;20000-29999;320-340;40600
+M;PhD;Private;Sports Car;Highly Urban/ Urban;dev_integral;22/01/2022;0;16;3815994;70-79 ans;oui;non;non;110000-119999;300-320;68270
+M;PhD;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;07/05/2022;0;18;8466380;70-79 ans;oui;oui;non;inconnu;320-340;93100
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;07/01/2022;4;3;8074557;30-39 ans;non;non;non;70000-79999;520-540;23210
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;05/01/2022;5;5;6624102;Moins de 18 ans;oui;non;non;110000-119999;320-340;41700
+F;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;13/05/2022;0;1;5937194;80 et plus;non;non;non;30000-39999;300-320;79000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;11/05/2022;4;10;6979343;50-59 ans;non;non;non;120000-129999;240-260;30129
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;29/03/2022;3;9;7313666;60-69 ans;non;non;non;30000-39999;300-320;74500
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;12/02/2022;0;3;5981441;18-29 ans;oui;non;non;30000-39999;440-460;12800
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_premium;18/03/2022;0;1;5865503;70-79 ans;non;non;oui;inconnu;320-340;59495
+F;<High School;Private;Pickup;Highly Urban/ Urban;dev_express;25/01/2022;5;1;3948634;80 et plus;non;non;oui;30000-39999;260-280;09000
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;11/05/2022;3;;3438804;18-29 ans;non;non;non;50000-59999;260-280;11000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;04/05/2022;0;7;4280427;Moins de 18 ans;oui;oui;oui;60000-69999;240-260;59580
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;22/01/2022;3;;6800625;30-39 ans;non;non;oui;70000-79999;260-280;18160
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;06/01/2022;2;10;4711198;40-49 ans;non;non;non;60000-69999;240-260;51530
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;11/04/2022;2;7;1576493;60-69 ans;oui;non;non;10000-19999;300-320;24130
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;22/03/2022;0;16;7043868;60-69 ans;non;non;non;40000-49999;280-300;91700
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;31/03/2022;0;15;5564421;30-39 ans;non;non;non;180000-189999;500-520;43220
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;09/03/2022;0;15;9383258;60-69 ans;non;non;non;170000-179999;280-300;53410
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;07/05/2022;5;1;6432351;70-79 ans;oui;non;non;30000-39999;280-300;08000
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;24/02/2022;3;10;1954021;70-79 ans;non;non;oui;90000-99999;300-320;63430
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;24/05/2022;0;15;7072230;40-49 ans;non;non;non;70000-79999;260-280;14123
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;25/02/2022;0;7;4514692;60-69 ans;non;non;non;80000-89999;280-300;26000
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_express;29/03/2022;0;11;1325935;80 et plus;non;non;oui;0-9999;260-280;15210
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;10/05/2022;6;12;2118134;80 et plus;oui;oui;non;70000-79999;260-280;87000
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;14/05/2022;3;5;1221435;Moins de 18 ans;oui;non;non;40000-49999;280-300;38470
+F;Bachelors;Private;Van;Highly Urban/ Urban;dev_integral;19/01/2022;3;12;1108045;80 et plus;non;non;oui;inconnu;280-300;44620
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;27/05/2022;0;7;3930591;30-39 ans;oui;oui;non;60000-69999;440-460;65110
+M;<High School;Commercial;Van;z_Highly Rural/ Rural;dev_integral;13/01/2022;0;1;6742144;Moins de 18 ans;oui;non;oui;10000-19999;320-340;38150
+M;z_High School;Private;Pickup;Highly Urban/ Urban;dev_integral;08/04/2022;0;10;4791695;30-39 ans;non;non;oui;30000-39999;320-340;18800
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;26/04/2022;2;15;6194593;30-39 ans;non;non;non;90000-99999;280-300;52000
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;30/01/2022;1;20;5084052;18-29 ans;non;non;non;100000-109999;300-320;10450
+F;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_express;18/05/2022;5;12;7263653;30-39 ans;non;non;non;50000-59999;260-280;88000
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_premium;27/01/2022;3;6;8295111;50-59 ans;non;non;non;40000-49999;400-420;16130
+F;Masters;Private;Van;Highly Urban/ Urban;dev_express;13/02/2022;0;18;7673459;50-59 ans;non;non;oui;130000-139999;260-280;90000
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;26/04/2022;0;8;4052024;Moins de 18 ans;non;non;non;20000-29999;320-340;89380
+M;Bachelors;Commercial;Van;z_Highly Rural/ Rural;dev_premium;26/05/2022;2;;5279760;60-69 ans;oui;non;oui;90000-99999;480-500;03000
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;06/02/2022;0;16;6294115;50-59 ans;oui;non;non;inconnu;300-320;94210
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;05/02/2022;0;5;3401687;18-29 ans;oui;oui;non;20000-29999;260-280;51000
+F;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_premium;26/03/2022;0;1;8200134;80 et plus;non;non;oui;10000-19999;440-460;84150
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;14/02/2022;4;10;6974858;70-79 ans;non;non;non;40000-49999;240-260;09100
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;17/04/2022;5;8;9657861;Moins de 18 ans;non;non;non;60000-69999;320-340;89300
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;12/02/2022;1;9;1040834;80 et plus;oui;non;oui;90000-99999;240-260;25110
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;20/03/2022;0;17;6348203;Moins de 18 ans;non;non;non;160000-169999;280-300;34700
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;24/03/2022;7;10;7976081;Moins de 18 ans;non;non;non;90000-99999;240-260;30400
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;28/05/2022;4;;5974343;70-79 ans;non;non;non;10000-19999;300-320;20240
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;27/04/2022;1;7;8721816;50-59 ans;non;non;non;60000-69999;320-340;11170
+M;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;28/01/2022;1;1;9121417;50-59 ans;non;non;non;90000-99999;320-340;46090
+M;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;21/03/2022;4;11;7432440;Moins de 18 ans;non;non;non;170000-179999;280-300;32000
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;07/01/2022;0;12;6130883;70-79 ans;non;non;non;60000-69999;320-340;23800
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;15/05/2022;4;13;6789565;60-69 ans;non;non;non;100000-109999;340-360;02400
+F;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;09/02/2022;4;12;2100300;30-39 ans;non;non;non;40000-49999;300-320;29750
+M;PhD;Commercial;Pickup;Highly Urban/ Urban;dev_express;04/02/2022;3;13;6362706;70-79 ans;non;non;non;190000-199999;280-300;93200
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_integral;30/04/2022;3;8;7447119;40-49 ans;non;non;non;90000-99999;300-320;90150
+M;z_High School;Private;Van;Highly Urban/ Urban;dev_express;06/01/2022;0;1;6213005;18-29 ans;non;non;non;70000-79999;260-280;39400
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;12/04/2022;2;1;5899944;50-59 ans;oui;non;non;50000-59999;240-260;14000
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;25/04/2022;5;10;8720245;80 et plus;non;non;non;90000-99999;240-260;57160
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;01/01/2022;4;8;2729748;30-39 ans;oui;oui;non;90000-99999;320-340;inconnu
+M;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;16/03/2022;5;1;6241011;50-59 ans;non;non;oui;30000-39999;280-300;27570
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;20/03/2022;3;20;1163443;18-29 ans;non;non;non;120000-129999;320-340;22740
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;20/01/2022;3;2;1518282;70-79 ans;non;non;non;inconnu;280-300;64000
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;10/05/2022;0;12;7734338;50-59 ans;non;non;oui;70000-79999;300-320;10800
+M;PhD;Private;Sports Car;Highly Urban/ Urban;dev_premium;10/01/2022;5;11;8617968;Moins de 18 ans;non;non;non;inconnu;520-540;62110
+F;z_High School;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;28/03/2022;0;12;4554248;Moins de 18 ans;non;non;non;70000-79999;300-320;53500
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;13/04/2022;4;11;4123730;40-49 ans;non;non;oui;30000-39999;300-320;87700
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;21/02/2022;0;1;6036898;80 et plus;non;non;non;70000-79999;320-340;80300
+F;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;15/01/2022;2;1;7129216;18-29 ans;non;non;oui;30000-39999;300-320;73000
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;25/01/2022;0;10;9313156;40-49 ans;non;non;oui;20000-29999;320-340;39700
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;18/01/2022;2;7;9700330;70-79 ans;non;non;non;inconnu;320-340;40390
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;15/02/2022;0;17;7142056;70-79 ans;non;non;oui;270000-279999;260-280;47310
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_premium;27/01/2022;1;14;4506168;60-69 ans;oui;non;non;70000-79999;520-540;56800
+M;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;18/03/2022;4;9;3305311;50-59 ans;non;non;non;40000-49999;280-300;83000
+M;z_High School;Private;Pickup;Highly Urban/ Urban;dev_integral;22/03/2022;0;8;1606547;18-29 ans;non;non;non;50000-59999;300-320;87430
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;07/03/2022;3;;8755876;Moins de 18 ans;non;non;non;30000-39999;320-340;56700
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;18/05/2022;0;4;8642621;Moins de 18 ans;non;non;oui;60000-69999;320-340;03100
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;01/05/2022;1;1;1608086;18-29 ans;oui;non;non;30000-39999;280-300;57700
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;26/05/2022;0;11;5849134;40-49 ans;oui;non;non;80000-89999;300-320;32190
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;23/04/2022;6;;2058139;Moins de 18 ans;non;non;non;40000-49999;500-520;28220
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;27/02/2022;1;11;6447828;80 et plus;oui;oui;oui;110000-119999;240-260;93800
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;16/04/2022;2;10;9717505;60-69 ans;non;non;oui;60000-69999;280-300;70400
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;21/03/2022;1;21;8528991;18-29 ans;oui;non;non;40000-49999;280-300;62217
+M;z_High School;Commercial;Sports Car;z_Highly Rural/ Rural;dev_integral;10/05/2022;0;1;8196795;40-49 ans;non;non;non;20000-29999;280-300;47800
+F;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_integral;11/04/2022;0;10;3640004;Moins de 18 ans;oui;non;non;80000-89999;280-300;34210
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;13/05/2022;0;1;8069931;50-59 ans;oui;non;non;10000-19999;260-280;82370
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;26/05/2022;3;1;4444974;70-79 ans;oui;oui;oui;0-9999;300-320;62420
+F;Bachelors;Private;Pickup;z_Highly Rural/ Rural;dev_express;03/03/2022;0;10;6345701;80 et plus;non;non;non;40000-49999;240-260;72000
+F;PhD;Private;Sports Car;Highly Urban/ Urban;dev_express;26/01/2022;0;12;9699789;70-79 ans;non;non;non;200000-209999;260-280;84000
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_express;22/01/2022;4;20;8054628;Moins de 18 ans;non;non;oui;130000-139999;260-280;46400
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;25/05/2022;0;3;7906237;70-79 ans;non;non;non;0-9999;260-280;23200
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_premium;03/02/2022;0;11;2485424;18-29 ans;non;non;non;70000-79999;420-440;41600
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;08/01/2022;5;19;1661555;50-59 ans;non;non;oui;140000-149999;260-280;54280
+F;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;02/05/2022;0;11;7049616;40-49 ans;non;non;non;inconnu;260-280;10800
+M;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_express;18/05/2022;0;7;4214811;30-39 ans;non;non;oui;40000-49999;260-280;74540
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_premium;25/05/2022;0;8;5827709;40-49 ans;non;non;non;20000-29999;480-500;59220
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;04/05/2022;2;1;2180510;60-69 ans;oui;oui;non;40000-49999;300-320;61100
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;16/04/2022;2;12;1162540;60-69 ans;oui;non;non;130000-139999;300-320;94000
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;17/02/2022;0;1;8476546;18-29 ans;non;non;non;10000-19999;320-340;32600
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;25/04/2022;0;11;9511266;80 et plus;non;non;oui;100000-109999;380-400;38800
+F;<High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;24/03/2022;0;7;4766169;Moins de 18 ans;non;non;non;30000-39999;280-300;45200
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;24/01/2022;0;5;2972891;50-59 ans;oui;non;non;inconnu;260-280;38360
+M;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_integral;03/03/2022;0;9;7436138;80 et plus;oui;oui;oui;inconnu;320-340;78700
+F;PhD;Private;Van;Highly Urban/ Urban;dev_integral;29/01/2022;0;14;5699138;60-69 ans;non;non;oui;130000-139999;300-320;39100
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;29/04/2022;0;4;6098355;80 et plus;oui;oui;non;10000-19999;320-340;69004
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;11/01/2022;0;6;8557347;70-79 ans;non;non;non;70000-79999;300-320;47110
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;11/05/2022;7;1;7886053;40-49 ans;oui;non;non;10000-19999;260-280;34970
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;07/05/2022;6;1;7122570;50-59 ans;oui;non;non;20000-29999;260-280;08000
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;08/02/2022;3;1;2405629;Moins de 18 ans;non;non;non;80000-89999;240-260;76690
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;01/02/2022;2;19;9732473;70-79 ans;non;non;oui;80000-89999;320-340;87000
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;10/03/2022;3;12;6587115;60-69 ans;non;non;non;20000-29999;300-320;18000
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;08/03/2022;1;1;1820046;50-59 ans;non;non;non;40000-49999;300-320;12170
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;27/05/2022;1;9;9920544;60-69 ans;non;non;non;30000-39999;440-460;91230
+F;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_vip;07/01/2022;2;9;1688007;50-59 ans;non;non;oui;70000-79999;620-640;93800
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;14/02/2022;0;1;9641192;80 et plus;oui;oui;oui;20000-29999;260-280;78300
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;21/02/2022;0;4;8535387;30-39 ans;non;non;non;30000-39999;240-260;91100
+M;Bachelors;Commercial;Van;z_Highly Rural/ Rural;dev_integral;09/04/2022;0;7;9730703;50-59 ans;oui;non;oui;30000-39999;280-300;88550
+F;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;25/03/2022;5;9;5280076;60-69 ans;oui;non;non;70000-79999;300-320;43200
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;31/03/2022;0;20;8556349;40-49 ans;oui;non;non;80000-89999;260-280;13790
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;02/02/2022;0;15;6094223;18-29 ans;non;non;non;50000-59999;280-300;48100
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;08/05/2022;0;7;6905852;50-59 ans;non;non;oui;40000-49999;300-320;20000
+M;Masters;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;04/04/2022;0;9;9653057;40-49 ans;oui;non;non;110000-119999;280-300;95000
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;11/01/2022;3;6;8541245;30-39 ans;oui;oui;non;inconnu;240-260;63250
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;22/03/2022;4;8;6393580;60-69 ans;oui;non;non;120000-129999;280-300;11260
+M;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;30/01/2022;0;1;9083462;80 et plus;oui;non;non;40000-49999;320-340;32100
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;09/05/2022;7;1;6746226;30-39 ans;non;non;non;70000-79999;300-320;18190
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;11/04/2022;3;5;9149598;70-79 ans;non;non;non;30000-39999;280-300;16500
+M;z_High School;Commercial;Van;Highly Urban/ Urban;dev_integral;10/01/2022;1;8;9087687;50-59 ans;non;non;oui;100000-109999;320-340;13012
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;26/03/2022;2;;5332259;50-59 ans;non;non;non;110000-119999;440-460;69460
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;24/02/2022;10;14;6065109;18-29 ans;non;non;non;70000-79999;240-260;93130
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;05/03/2022;3;3;7380240;18-29 ans;oui;non;non;110000-119999;280-300;46000
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;30/04/2022;0;10;6494420;80 et plus;non;non;non;inconnu;280-300;20290
+M;z_High School;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;26/01/2022;0;1;4475335;30-39 ans;non;non;non;10000-19999;300-320;39100
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_vip;06/01/2022;4;10;1565163;80 et plus;oui;oui;non;100000-109999;680-700;19270
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;09/01/2022;0;13;2641329;30-39 ans;non;non;oui;50000-59999;320-340;38080
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;13/01/2022;1;1;5251055;60-69 ans;oui;non;non;80000-89999;320-340;56400
+F;PhD;Private;Sports Car;Highly Urban/ Urban;dev_integral;10/05/2022;8;20;5573894;80 et plus;non;non;non;160000-169999;300-320;81200
+M;Bachelors;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;02/03/2022;0;1;5816579;80 et plus;oui;non;non;80000-89999;320-340;57230
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;30/01/2022;2;18;5924016;50-59 ans;oui;non;non;70000-79999;240-260;73300
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;14/04/2022;0;25;1569611;50-59 ans;non;non;non;inconnu;280-300;40420
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;29/05/2022;0;19;7075364;30-39 ans;oui;non;oui;120000-129999;300-320;90370
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_express;24/05/2022;0;17;6667070;Moins de 18 ans;oui;non;oui;30000-39999;260-280;66210
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;27/01/2022;2;11;6591992;50-59 ans;non;non;oui;60000-69999;300-320;15210
+F;Bachelors;Private;Van;Highly Urban/ Urban;dev_express;07/05/2022;3;13;4463693;50-59 ans;non;non;non;50000-59999;240-260;37300
+M;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_premium;06/03/2022;0;8;6681346;70-79 ans;oui;non;non;30000-39999;420-440;42000
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;06/05/2022;1;5;7578551;18-29 ans;oui;non;non;40000-49999;260-280;07430
+F;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_premium;23/01/2022;0;1;9210146;50-59 ans;oui;non;non;50000-59999;540-560;45140
+M;<High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;21/01/2022;3;1;4037716;18-29 ans;oui;non;non;inconnu;280-300;62800
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;24/05/2022;1;;5948767;60-69 ans;oui;non;oui;inconnu;300-320;24100
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;23/04/2022;4;8;8548813;40-49 ans;oui;non;oui;20000-29999;280-300;93290
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;19/02/2022;0;9;8778939;60-69 ans;non;non;non;120000-129999;260-280;30140
+F;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;10/01/2022;0;7;5144153;70-79 ans;non;non;non;30000-39999;280-300;80570
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_premium;26/02/2022;0;13;2381074;Moins de 18 ans;oui;non;non;40000-49999;400-420;12140
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;03/01/2022;0;10;8958193;30-39 ans;oui;oui;non;inconnu;260-280;64110
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;27/01/2022;0;;6403608;60-69 ans;non;non;oui;inconnu;300-320;46500
+M;<High School;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;26/05/2022;2;8;2862685;80 et plus;non;non;non;40000-49999;320-340;94880
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;07/03/2022;3;1;2928826;50-59 ans;oui;non;non;inconnu;320-340;65140
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;16/04/2022;3;;6182299;50-59 ans;non;non;non;30000-39999;260-280;64300
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;23/05/2022;3;6;4630537;40-49 ans;oui;non;non;30000-39999;260-280;11150
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;08/01/2022;0;11;2673618;70-79 ans;oui;non;non;20000-29999;440-460;59700
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;29/05/2022;0;21;6366454;18-29 ans;oui;non;non;70000-79999;320-340;46800
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;10/01/2022;1;8;1660440;70-79 ans;oui;oui;oui;40000-49999;300-320;18100
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;18/04/2022;0;;1860619;50-59 ans;non;non;non;80000-89999;300-320;48000
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;16/01/2022;1;18;3858684;Moins de 18 ans;oui;non;non;150000-159999;260-280;12000
+M;z_High School;Commercial;Van;Highly Urban/ Urban;dev_express;02/01/2022;2;7;3531336;70-79 ans;non;non;oui;50000-59999;260-280;39260
+M;PhD;Commercial;Van;Highly Urban/ Urban;dev_integral;18/03/2022;3;16;3186610;70-79 ans;non;non;non;130000-139999;320-340;85640
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_premium;19/01/2022;0;14;5963305;70-79 ans;non;non;non;130000-139999;460-480;41100
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;06/05/2022;0;11;3911444;Moins de 18 ans;oui;non;non;70000-79999;280-300;03600
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;27/04/2022;3;4;1585920;60-69 ans;oui;non;non;30000-39999;240-260;35620
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;16/02/2022;4;19;7717823;Moins de 18 ans;non;non;non;130000-139999;260-280;08000
+F;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;06/03/2022;0;14;2488624;80 et plus;non;non;non;inconnu;280-300;71390
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;07/01/2022;0;5;9404089;40-49 ans;non;non;non;30000-39999;260-280;15000
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;23/02/2022;0;16;2120835;70-79 ans;oui;non;oui;110000-119999;260-280;80230
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;11/04/2022;0;12;1606514;40-49 ans;oui;oui;non;110000-119999;280-300;15160
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;16/03/2022;1;15;5223463;30-39 ans;non;non;non;inconnu;300-320;53200
+F;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;13/05/2022;2;11;8841516;40-49 ans;non;non;non;inconnu;280-300;72200
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;08/01/2022;1;7;7160066;50-59 ans;non;non;oui;110000-119999;260-280;25250
+F;PhD;Private;Van;Highly Urban/ Urban;dev_express;13/03/2022;0;3;6229357;70-79 ans;non;non;oui;100000-109999;260-280;68200
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;05/01/2022;3;8;5325708;70-79 ans;non;non;oui;30000-39999;260-280;76100
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;17/02/2022;1;8;7270306;40-49 ans;oui;oui;non;70000-79999;420-440;49360
+M;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;14/04/2022;0;16;4787932;80 et plus;non;non;non;inconnu;340-360;44700
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;10/02/2022;2;10;6831517;80 et plus;non;non;non;inconnu;240-260;11100
+M;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;17/04/2022;0;9;1034025;70-79 ans;oui;oui;non;80000-89999;280-300;43110
+F;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;15/02/2022;7;1;3585484;Moins de 18 ans;non;non;non;inconnu;320-340;81290
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;07/04/2022;0;5;5893383;Moins de 18 ans;non;non;non;130000-139999;300-320;09100
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;11/01/2022;8;5;6548867;80 et plus;oui;non;non;inconnu;260-280;46130
+M;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;29/01/2022;0;16;2745172;60-69 ans;non;non;non;250000-259999;280-300;54740
+M;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;27/01/2022;5;19;1450200;60-69 ans;non;non;oui;210000-219999;260-280;14440
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;09/04/2022;0;7;2617459;Moins de 18 ans;oui;non;non;50000-59999;280-300;52400
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;04/02/2022;0;8;4863275;18-29 ans;oui;non;non;70000-79999;280-300;32190
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_premium;13/04/2022;2;9;4689975;Moins de 18 ans;oui;non;non;70000-79999;340-360;25800
+M;PhD;Commercial;Van;Highly Urban/ Urban;dev_premium;01/03/2022;1;14;7299576;40-49 ans;non;non;oui;inconnu;380-400;29630
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;13/02/2022;0;1;3805350;60-69 ans;non;non;non;inconnu;340-360;20000
+M;<High School;Commercial;Van;Highly Urban/ Urban;dev_integral;27/03/2022;2;1;7924704;60-69 ans;oui;non;oui;30000-39999;320-340;51400
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;26/03/2022;0;14;8563973;50-59 ans;non;non;non;100000-109999;240-260;83110
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_premium;05/04/2022;0;;3277794;80 et plus;non;non;non;90000-99999;400-420;74240
+F;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;23/01/2022;2;16;1973102;Moins de 18 ans;non;non;non;0-9999;480-500;18240
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;14/02/2022;0;16;2893647;70-79 ans;non;non;non;80000-89999;280-300;88220
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_express;31/03/2022;0;;8789818;50-59 ans;non;non;non;30000-39999;260-280;24000
+M;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;11/05/2022;1;1;2978184;50-59 ans;non;non;non;inconnu;320-340;17700
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;24/03/2022;7;1;1020213;40-49 ans;oui;non;non;inconnu;320-340;21120
+M;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;29/03/2022;6;1;7742629;70-79 ans;non;non;non;0-9999;260-280;85770
+F;<High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;02/01/2022;0;1;2327611;30-39 ans;oui;non;oui;inconnu;300-320;59240
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;29/05/2022;5;1;6802086;70-79 ans;oui;oui;oui;30000-39999;320-340;16440
+M;Masters;Private;Van;Highly Urban/ Urban;dev_integral;18/04/2022;11;16;5017827;18-29 ans;non;non;non;90000-99999;320-340;23600
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;17/04/2022;2;1;6516492;60-69 ans;non;non;non;10000-19999;300-320;73200
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;08/03/2022;6;7;2409349;80 et plus;non;non;oui;80000-89999;320-340;81200
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;28/04/2022;0;12;1708161;80 et plus;non;non;non;80000-89999;260-280;41600
+M;Bachelors;Commercial;z_SUV;z_Highly Rural/ Rural;dev_premium;05/04/2022;1;7;8852597;40-49 ans;non;non;non;80000-89999;460-480;19600
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;09/04/2022;2;1;7535333;60-69 ans;non;non;non;60000-69999;300-320;87000
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;06/05/2022;6;18;9002034;60-69 ans;non;non;non;100000-109999;260-280;49000
+F;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;29/04/2022;4;11;2165210;70-79 ans;oui;oui;non;40000-49999;320-340;33610
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;03/01/2022;3;1;6421646;50-59 ans;non;non;non;30000-39999;260-280;18100
+M;Bachelors;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_vip;09/05/2022;1;4;2152234;18-29 ans;non;non;oui;60000-69999;980-1000;83210
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;22/01/2022;0;17;9213188;80 et plus;non;non;oui;inconnu;280-300;08700
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;29/04/2022;0;15;5042268;Moins de 18 ans;non;non;non;30000-39999;240-260;11400
+F;z_High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;24/02/2022;5;;1879742;70-79 ans;non;non;oui;50000-59999;300-320;13104
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;01/04/2022;0;1;2780912;50-59 ans;non;non;oui;inconnu;260-280;44390
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_express;12/02/2022;3;13;4949508;80 et plus;non;non;non;80000-89999;240-260;55300
+F;z_High School;Private;Van;Highly Urban/ Urban;dev_integral;19/04/2022;0;12;7485607;60-69 ans;oui;non;oui;40000-49999;300-320;34290
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_premium;06/02/2022;2;6;9196351;80 et plus;oui;non;non;0-9999;400-420;63910
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;07/01/2022;0;9;8292617;60-69 ans;oui;non;non;0-9999;280-300;85360
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;19/03/2022;0;1;2052305;30-39 ans;non;non;oui;inconnu;360-380;46400
+F;PhD;Private;Pickup;Highly Urban/ Urban;dev_integral;10/03/2022;0;;8677464;70-79 ans;non;non;non;inconnu;300-320;69190
+F;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;08/05/2022;0;19;9296568;50-59 ans;non;non;oui;30000-39999;320-340;59440
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;09/03/2022;0;7;7410870;80 et plus;oui;non;non;50000-59999;260-280;47320
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;20/04/2022;2;15;6787549;70-79 ans;non;non;non;0-9999;260-280;39120
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;05/04/2022;3;1;5906742;80 et plus;non;non;oui;100000-109999;300-320;33000
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;20/05/2022;4;9;1890382;50-59 ans;oui;non;non;80000-89999;280-300;93250
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;03/03/2022;1;6;6175100;60-69 ans;oui;non;non;0-9999;280-300;55310
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;12/03/2022;2;1;5408255;70-79 ans;oui;oui;non;10000-19999;260-280;62700
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;06/01/2022;0;12;7861290;80 et plus;oui;non;non;60000-69999;240-260;44160
+M;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;17/01/2022;7;4;1606275;18-29 ans;non;non;oui;inconnu;260-280;82130
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;04/03/2022;1;8;5535088;80 et plus;oui;non;non;10000-19999;300-320;92220
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;28/02/2022;0;20;5031534;50-59 ans;non;non;non;140000-149999;480-500;46100
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;22/03/2022;0;4;6105932;40-49 ans;non;non;non;60000-69999;240-260;17220
+F;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;09/05/2022;0;10;1464678;18-29 ans;oui;non;non;40000-49999;260-280;94240
+F;PhD;Commercial;Pickup;Highly Urban/ Urban;dev_integral;11/03/2022;0;;6870667;30-39 ans;non;non;non;90000-99999;280-300;41500
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_integral;19/02/2022;5;1;5398839;50-59 ans;non;non;oui;70000-79999;300-320;56600
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_premium;28/04/2022;2;8;5691540;30-39 ans;oui;non;non;inconnu;460-480;71000
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;01/03/2022;0;1;2288262;18-29 ans;non;non;oui;160000-169999;280-300;39300
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;17/01/2022;1;1;8658257;30-39 ans;oui;oui;oui;90000-99999;280-300;05000
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;14/04/2022;1;5;4405227;40-49 ans;non;non;non;70000-79999;260-280;03460
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;17/02/2022;0;12;6097379;30-39 ans;non;non;non;80000-89999;240-260;82000
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;19/04/2022;2;11;6775120;60-69 ans;non;non;non;50000-59999;280-300;06530
+M;<High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;18/05/2022;0;5;2011810;70-79 ans;oui;oui;non;10000-19999;280-300;91540
+M;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;13/03/2022;1;12;9366355;80 et plus;non;non;oui;60000-69999;280-300;89100
+F;Masters;Commercial;Van;Highly Urban/ Urban;dev_express;11/05/2022;0;;7542186;Moins de 18 ans;oui;oui;oui;200000-209999;280-300;95000
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;11/01/2022;1;;7254575;Moins de 18 ans;non;non;non;90000-99999;440-460;89320
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;09/05/2022;2;6;7999787;18-29 ans;non;non;non;20000-29999;320-340;31220
+F;<High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;04/01/2022;6;1;4935720;50-59 ans;oui;oui;non;10000-19999;320-340;19100
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;30/05/2022;7;6;6840814;50-59 ans;oui;non;non;10000-19999;240-260;13003
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;06/03/2022;1;9;2525445;18-29 ans;non;non;oui;90000-99999;240-260;75019
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;19/01/2022;7;4;6451219;18-29 ans;oui;non;non;30000-39999;480-500;60160
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;20/04/2022;2;9;9640885;Moins de 18 ans;oui;non;non;50000-59999;320-340;84200
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;24/05/2022;1;1;2558407;50-59 ans;non;non;non;inconnu;260-280;95140
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;26/03/2022;8;1;8476633;18-29 ans;oui;non;non;inconnu;260-280;50690
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;23/03/2022;1;8;6369679;70-79 ans;non;non;non;10000-19999;300-320;53240
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;12/04/2022;0;18;3462909;18-29 ans;non;non;oui;100000-109999;280-300;08170
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;15/04/2022;0;11;6822835;30-39 ans;non;non;non;150000-159999;300-320;47210
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;20/04/2022;1;6;5594025;70-79 ans;non;non;oui;50000-59999;240-260;77440
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;02/05/2022;0;1;2951541;70-79 ans;non;non;non;20000-29999;300-320;26300
+F;z_High School;Private;Van;Highly Urban/ Urban;dev_express;21/05/2022;6;1;1000357;60-69 ans;oui;non;oui;10000-19999;260-280;04000
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;01/03/2022;0;;6156199;18-29 ans;oui;non;non;60000-69999;280-300;12120
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;10/05/2022;3;7;8618245;50-59 ans;oui;oui;non;60000-69999;460-480;61100
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;06/03/2022;1;10;9281076;70-79 ans;non;non;non;100000-109999;300-320;75016
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;26/05/2022;0;1;2594127;Moins de 18 ans;non;non;non;10000-19999;280-300;88220
+F;<High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;25/04/2022;1;1;1760102;18-29 ans;oui;oui;non;20000-29999;280-300;31000
+M;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_premium;29/05/2022;0;1;4203640;60-69 ans;non;non;non;30000-39999;320-340;08200
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;03/02/2022;5;10;8463904;Moins de 18 ans;oui;non;non;30000-39999;260-280;82100
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;16/05/2022;0;8;6739494;18-29 ans;oui;non;non;30000-39999;260-280;11000
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;15/05/2022;1;10;8701222;60-69 ans;oui;oui;non;60000-69999;260-280;54620
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;28/05/2022;2;6;9716507;70-79 ans;oui;non;non;60000-69999;260-280;86000
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;27/03/2022;2;11;2131744;70-79 ans;non;non;oui;10000-19999;280-300;19100
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;03/02/2022;4;1;5349747;50-59 ans;non;non;non;30000-39999;320-340;02100
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;06/05/2022;4;8;2192480;Moins de 18 ans;non;non;oui;110000-119999;520-540;18190
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_premium;12/05/2022;3;;1818908;18-29 ans;non;non;non;20000-29999;380-400;52100
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;15/01/2022;1;13;7137314;70-79 ans;non;non;oui;80000-89999;280-300;58000
+M;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;24/01/2022;1;1;5815919;Moins de 18 ans;oui;oui;oui;10000-19999;320-340;73100
+M;PhD;Private;Pickup;Highly Urban/ Urban;dev_integral;17/03/2022;0;19;6732804;50-59 ans;non;non;non;170000-179999;320-340;54190
+M;PhD;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;29/03/2022;1;9;1003185;80 et plus;non;non;non;inconnu;300-320;78570
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_express;10/05/2022;0;;6245183;18-29 ans;non;non;oui;60000-69999;260-280;13013
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;14/03/2022;0;15;9857281;60-69 ans;non;non;non;110000-119999;260-280;24100
+F;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_premium;31/05/2022;0;10;6147177;70-79 ans;non;non;non;30000-39999;520-540;16200
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;10/05/2022;0;7;3881951;Moins de 18 ans;non;non;non;140000-149999;320-340;54300
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;14/05/2022;0;1;7728707;60-69 ans;oui;non;non;30000-39999;240-260;27300
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;07/05/2022;2;12;3597119;80 et plus;non;non;non;110000-119999;240-260;82170
+F;<High School;Private;Pickup;z_Highly Rural/ Rural;dev_integral;17/05/2022;1;1;6784520;50-59 ans;non;non;oui;50000-59999;320-340;57950
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;17/03/2022;0;8;9426174;50-59 ans;non;non;oui;0-9999;280-300;44190
+F;PhD;Commercial;Van;Highly Urban/ Urban;dev_premium;15/03/2022;3;10;2381605;40-49 ans;non;non;oui;140000-149999;420-440;49000
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;30/03/2022;0;13;2311510;50-59 ans;non;non;non;140000-149999;260-280;28310
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;21/01/2022;0;1;7946636;60-69 ans;non;non;non;70000-79999;260-280;43100
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;18/01/2022;2;1;9894763;60-69 ans;oui;non;non;0-9999;240-260;04100
+F;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;19/04/2022;1;17;1644304;18-29 ans;non;non;oui;0-9999;280-300;58260
+M;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_premium;18/05/2022;0;7;6590930;50-59 ans;non;non;oui;30000-39999;360-380;24340
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;04/04/2022;0;21;2020068;50-59 ans;non;non;non;70000-79999;260-280;83120
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;25/03/2022;0;8;3629632;50-59 ans;oui;non;oui;130000-139999;300-320;62144
+F;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;23/03/2022;7;1;9053284;60-69 ans;oui;non;non;70000-79999;280-300;47300
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;25/03/2022;0;11;4671190;30-39 ans;non;non;oui;100000-109999;260-280;70310
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;23/02/2022;0;22;3723367;30-39 ans;non;non;oui;inconnu;320-340;60170
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_premium;08/04/2022;4;10;2803003;80 et plus;non;non;non;120000-129999;500-520;29810
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;25/02/2022;0;;6312577;70-79 ans;non;non;non;40000-49999;320-340;43700
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;07/02/2022;2;8;1319383;60-69 ans;non;non;non;30000-39999;280-300;36290
+M;<High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;01/04/2022;0;4;5035421;Moins de 18 ans;oui;oui;non;inconnu;300-320;38350
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;25/05/2022;3;;2480278;18-29 ans;non;non;non;100000-109999;260-280;45200
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;21/04/2022;5;7;1519678;80 et plus;non;non;non;20000-29999;260-280;11000
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_premium;31/05/2022;0;1;4379565;60-69 ans;non;non;oui;20000-29999;340-360;82600
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;19/02/2022;0;1;6783091;30-39 ans;non;non;non;inconnu;260-280;65000
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;23/05/2022;9;6;9030894;60-69 ans;oui;oui;non;40000-49999;320-340;29860
+M;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;24/02/2022;0;4;7868104;80 et plus;oui;non;non;80000-89999;320-340;07330
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;28/05/2022;0;;1920208;80 et plus;oui;non;non;50000-59999;260-280;07400
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;18/05/2022;0;9;4814429;70-79 ans;non;non;non;30000-39999;240-260;08000
+M;z_High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;12/03/2022;4;1;8194450;50-59 ans;oui;non;oui;30000-39999;280-300;01630
+M;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;06/03/2022;2;8;8658623;50-59 ans;oui;oui;oui;50000-59999;260-280;09700
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;04/03/2022;3;1;9062033;80 et plus;non;non;oui;inconnu;280-300;47410
+M;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_premium;10/05/2022;2;13;8426806;70-79 ans;oui;non;oui;40000-49999;380-400;34000
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_express;08/04/2022;3;9;5573545;40-49 ans;oui;non;oui;inconnu;280-300;70210
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;20/01/2022;1;1;9750144;60-69 ans;non;non;non;50000-59999;260-280;67670
+F;Bachelors;Private;Minivan;z_Highly Rural/ Rural;dev_express;06/01/2022;2;;3405825;60-69 ans;oui;non;oui;inconnu;240-260;15600
+F;z_High School;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;07/01/2022;2;8;7368963;30-39 ans;oui;non;non;inconnu;280-300;62200
+F;<High School;Private;Pickup;Highly Urban/ Urban;dev_express;04/05/2022;1;1;7230822;50-59 ans;non;non;oui;20000-29999;280-300;41400
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;05/05/2022;2;15;7716066;Moins de 18 ans;non;non;non;140000-149999;320-340;38490
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;14/03/2022;7;18;5002448;Moins de 18 ans;oui;oui;non;80000-89999;260-280;24000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;13/02/2022;2;12;2797390;80 et plus;non;non;non;70000-79999;240-260;18570
+M;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_integral;27/03/2022;0;17;9386250;80 et plus;non;non;oui;30000-39999;300-320;19100
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;02/02/2022;0;1;1353993;50-59 ans;non;non;non;60000-69999;300-320;59620
+F;Masters;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;22/05/2022;0;14;2119146;80 et plus;oui;oui;oui;70000-79999;300-320;39000
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;03/02/2022;2;9;9316993;60-69 ans;non;non;non;30000-39999;280-300;95490
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;17/04/2022;3;7;7773369;18-29 ans;non;non;non;30000-39999;240-260;20000
+F;PhD;Private;Sports Car;Highly Urban/ Urban;dev_integral;30/01/2022;0;9;6992323;60-69 ans;non;non;non;60000-69999;280-300;78700
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;04/01/2022;3;12;8943928;70-79 ans;non;non;non;180000-189999;280-300;57230
+F;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_premium;20/02/2022;2;11;5112479;30-39 ans;oui;non;oui;40000-49999;460-480;73190
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;22/03/2022;0;18;5461449;30-39 ans;non;non;non;70000-79999;320-340;30300
+M;PhD;Private;Sports Car;Highly Urban/ Urban;dev_integral;14/04/2022;0;20;5438169;70-79 ans;non;non;non;inconnu;300-320;48100
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;28/03/2022;4;9;5576420;80 et plus;non;non;non;20000-29999;300-320;81120
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;15/01/2022;0;5;4933777;40-49 ans;non;non;non;40000-49999;300-320;32220
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_express;30/03/2022;1;7;5644913;80 et plus;oui;oui;non;40000-49999;240-260;10100
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;03/04/2022;0;1;9425001;Moins de 18 ans;non;non;non;inconnu;260-280;01500
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;11/04/2022;0;;4722736;Moins de 18 ans;oui;non;non;70000-79999;320-340;35370
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;18/05/2022;0;;7958743;60-69 ans;non;non;oui;0-9999;300-320;50350
+M;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;02/04/2022;4;1;7876378;80 et plus;non;non;oui;0-9999;320-340;44000
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;09/03/2022;0;19;1806502;Moins de 18 ans;non;non;oui;50000-59999;260-280;15170
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;13/04/2022;0;10;6228245;18-29 ans;non;non;non;inconnu;320-340;59180
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_integral;14/03/2022;3;18;9126298;30-39 ans;non;non;oui;40000-49999;320-340;89120
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;12/05/2022;1;10;2394315;50-59 ans;oui;non;non;20000-29999;280-300;58000
+F;<High School;Private;Van;Highly Urban/ Urban;dev_integral;01/01/2022;0;1;1807176;18-29 ans;oui;non;non;10000-19999;280-300;36190
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;25/05/2022;4;16;2273604;18-29 ans;oui;oui;non;80000-89999;240-260;56100
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;16/05/2022;0;9;3542259;50-59 ans;non;non;non;0-9999;260-280;50660
+M;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;27/02/2022;1;7;6461426;Moins de 18 ans;oui;oui;non;10000-19999;300-320;62360
+F;PhD;Private;Pickup;Highly Urban/ Urban;dev_integral;09/03/2022;0;15;4513591;80 et plus;non;non;non;190000-199999;280-300;53250
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;31/05/2022;4;13;8335568;30-39 ans;non;non;non;60000-69999;260-280;83230
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_premium;02/03/2022;0;14;9124914;60-69 ans;non;non;non;150000-159999;340-360;20220
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;24/04/2022;0;24;8624546;18-29 ans;oui;non;oui;80000-89999;500-520;61100
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_express;21/01/2022;3;10;7949142;60-69 ans;non;non;non;inconnu;280-300;79100
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;07/03/2022;4;13;9434525;70-79 ans;non;non;non;70000-79999;260-280;86100
+F;Bachelors;Private;Pickup;z_Highly Rural/ Rural;dev_express;31/05/2022;0;17;3680690;Moins de 18 ans;non;non;oui;inconnu;280-300;74320
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;13/05/2022;4;8;9290515;80 et plus;oui;non;oui;70000-79999;280-300;75015
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;23/05/2022;0;15;9581903;60-69 ans;non;non;oui;70000-79999;280-300;55100
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_express;11/05/2022;1;10;2307043;18-29 ans;non;non;non;inconnu;280-300;35510
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;05/04/2022;3;1;9290827;50-59 ans;non;non;oui;inconnu;320-340;46500
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;27/05/2022;8;1;6271447;40-49 ans;non;non;non;90000-99999;300-320;25490
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_premium;20/04/2022;2;1;3031461;50-59 ans;oui;non;oui;30000-39999;380-400;04220
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;25/01/2022;0;10;4182537;50-59 ans;oui;non;oui;inconnu;240-260;20000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;08/04/2022;1;13;2199768;50-59 ans;oui;non;oui;60000-69999;260-280;55000
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;18/02/2022;0;7;6212109;80 et plus;non;non;oui;inconnu;320-340;91420
+F;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;12/01/2022;0;;2292298;30-39 ans;non;non;non;90000-99999;300-320;27370
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;10/01/2022;2;1;8084091;80 et plus;non;non;non;inconnu;320-340;64250
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;10/05/2022;1;5;6445148;80 et plus;oui;oui;non;70000-79999;440-460;01230
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;23/03/2022;0;10;3699513;80 et plus;oui;non;non;inconnu;420-440;61160
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;19/02/2022;5;3;5299249;60-69 ans;non;non;non;10000-19999;280-300;64990
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;27/04/2022;0;1;5695848;30-39 ans;oui;oui;non;inconnu;260-280;02250
+F;<High School;Private;Pickup;Highly Urban/ Urban;dev_express;23/04/2022;0;1;1186518;70-79 ans;non;non;oui;20000-29999;260-280;95380
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;21/05/2022;5;10;2043561;50-59 ans;non;non;oui;140000-149999;300-320;94200
+M;Masters;Private;Van;Highly Urban/ Urban;dev_express;06/01/2022;6;;2869826;Moins de 18 ans;non;non;oui;100000-109999;260-280;93220
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;08/04/2022;0;14;6877073;Moins de 18 ans;oui;non;non;80000-89999;300-320;75015
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;25/04/2022;0;6;7235368;80 et plus;non;non;non;50000-59999;320-340;95410
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;09/01/2022;1;19;4877837;80 et plus;non;non;non;40000-49999;240-260;93120
+M;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;05/02/2022;2;6;5324891;40-49 ans;non;non;oui;inconnu;320-340;94800
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;01/03/2022;2;14;6286053;80 et plus;non;non;oui;170000-179999;280-300;18130
+M;Masters;Private;Sports Car;z_Highly Rural/ Rural;dev_premium;14/02/2022;2;20;7289901;60-69 ans;non;non;non;inconnu;400-420;53950
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;13/02/2022;7;7;2275454;30-39 ans;oui;non;oui;80000-89999;280-300;90100
+M;<High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_premium;11/03/2022;2;1;4747791;50-59 ans;oui;oui;oui;inconnu;360-380;89500
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;12/01/2022;1;13;6743032;60-69 ans;oui;oui;non;70000-79999;260-280;80210
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;10/03/2022;0;13;4080160;60-69 ans;oui;oui;non;inconnu;300-320;14680
+M;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;10/05/2022;0;6;3247906;60-69 ans;non;non;oui;270000-279999;260-280;20600
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_premium;11/01/2022;3;1;7825186;Moins de 18 ans;non;non;non;70000-79999;460-480;48500
+M;Bachelors;Private;Sports Car;z_Highly Rural/ Rural;dev_premium;05/05/2022;0;7;2060927;30-39 ans;non;non;non;inconnu;440-460;64600
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;21/02/2022;1;15;7331070;50-59 ans;oui;non;oui;60000-69999;300-320;12740
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_premium;07/04/2022;0;13;2219776;50-59 ans;non;non;oui;60000-69999;480-500;03100
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;07/02/2022;2;7;9920838;70-79 ans;non;non;non;60000-69999;280-300;64440
+F;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_express;28/05/2022;0;7;9813039;Moins de 18 ans;oui;non;non;30000-39999;260-280;46110
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;03/03/2022;0;7;3954359;60-69 ans;non;non;non;80000-89999;300-320;61250
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;07/02/2022;0;16;3114030;18-29 ans;oui;non;oui;120000-129999;300-320;08000
+F;PhD;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;07/01/2022;0;15;5868461;30-39 ans;non;non;non;80000-89999;320-340;51000
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_premium;26/02/2022;0;7;4191913;Moins de 18 ans;non;non;non;30000-39999;480-500;89000
+M;PhD;Private;Van;Highly Urban/ Urban;dev_integral;07/04/2022;0;18;8760178;Moins de 18 ans;non;non;oui;150000-159999;300-320;93400
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;22/03/2022;4;21;9899470;70-79 ans;non;non;non;170000-179999;240-260;39300
+F;Masters;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;12/01/2022;1;13;1426082;Moins de 18 ans;non;non;non;90000-99999;300-320;40360
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;10/03/2022;0;11;6233579;50-59 ans;oui;oui;non;30000-39999;300-320;09400
+F;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;11/02/2022;2;;7905250;Moins de 18 ans;non;non;non;40000-49999;280-300;66740
+F;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;17/04/2022;2;;1366112;30-39 ans;non;non;oui;90000-99999;240-260;32330
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;20/05/2022;3;5;9582990;70-79 ans;oui;non;oui;inconnu;320-340;47310
+F;Masters;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_express;08/01/2022;0;17;4161755;18-29 ans;non;non;oui;180000-189999;240-260;03200
+M;PhD;Private;Sports Car;Highly Urban/ Urban;dev_express;14/03/2022;3;14;1883683;18-29 ans;non;non;non;90000-99999;260-280;03000
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;23/05/2022;0;10;4340423;18-29 ans;non;non;non;100000-109999;280-300;22700
+M;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;09/04/2022;1;11;8478419;18-29 ans;non;non;non;50000-59999;300-320;91190
+M;Masters;Private;Van;Highly Urban/ Urban;dev_integral;28/04/2022;0;18;7093355;18-29 ans;non;non;non;40000-49999;300-320;61000
+M;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_premium;17/02/2022;3;1;8207292;Moins de 18 ans;non;non;non;30000-39999;520-540;45520
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;16/04/2022;2;11;6422393;60-69 ans;non;non;non;110000-119999;260-280;73100
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;14/04/2022;0;13;1186863;Moins de 18 ans;non;non;non;200000-209999;260-280;70210
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_premium;26/04/2022;0;9;4032644;30-39 ans;non;non;oui;80000-89999;440-460;64200
+M;<High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;24/04/2022;4;1;8058548;40-49 ans;non;non;non;40000-49999;280-300;11360
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;03/03/2022;0;8;9897561;18-29 ans;non;non;oui;50000-59999;300-320;43700
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;18/03/2022;1;15;1289229;Moins de 18 ans;non;non;oui;120000-129999;320-340;61300
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;28/04/2022;2;8;4457851;80 et plus;non;non;non;50000-59999;280-300;74540
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;22/03/2022;1;7;6894154;18-29 ans;oui;non;non;90000-99999;280-300;10120
+F;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;08/02/2022;4;10;5873018;18-29 ans;oui;oui;non;60000-69999;300-320;26000
+F;Bachelors;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;08/02/2022;0;;6754620;18-29 ans;non;non;non;90000-99999;320-340;27220
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;07/02/2022;0;1;7320570;60-69 ans;non;non;non;20000-29999;280-300;81000
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;22/03/2022;2;1;7132278;70-79 ans;oui;non;non;60000-69999;240-260;50000
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;13/04/2022;1;1;8457670;80 et plus;non;non;non;30000-39999;360-380;80570
+M;<High School;Private;Sports Car;Highly Urban/ Urban;dev_premium;16/02/2022;4;1;3857008;60-69 ans;oui;oui;non;inconnu;480-500;29200
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;01/03/2022;0;7;8893637;Moins de 18 ans;non;non;oui;0-9999;320-340;36300
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;17/01/2022;0;1;9011449;30-39 ans;non;non;non;30000-39999;280-300;81290
+M;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;21/05/2022;2;7;9498521;50-59 ans;oui;oui;oui;0-9999;320-340;71100
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;17/04/2022;6;17;4217266;40-49 ans;non;non;non;150000-159999;340-360;60250
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;13/02/2022;0;1;5738037;18-29 ans;non;non;non;70000-79999;300-320;05000
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;08/03/2022;0;25;3268633;70-79 ans;oui;non;non;120000-129999;280-300;87200
+M;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;01/05/2022;1;9;3895120;50-59 ans;non;non;non;90000-99999;300-320;37170
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;10/02/2022;0;16;3952889;18-29 ans;non;non;non;180000-189999;300-320;23000
+F;PhD;Private;Sports Car;Highly Urban/ Urban;dev_integral;17/03/2022;0;;1939505;30-39 ans;oui;non;non;80000-89999;320-340;37000
+M;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_premium;10/02/2022;1;8;9144575;60-69 ans;non;non;non;20000-29999;340-360;52100
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;16/01/2022;0;1;9122137;60-69 ans;non;non;non;50000-59999;300-320;65330
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;05/01/2022;6;1;2552727;60-69 ans;oui;non;non;40000-49999;280-300;90110
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_vip;11/01/2022;0;18;1647809;40-49 ans;oui;oui;non;290000-299999;860-880;23300
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;11/03/2022;0;1;7203022;50-59 ans;oui;non;non;50000-59999;300-320;77600
+F;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;10/01/2022;0;1;9666497;70-79 ans;non;non;non;20000-29999;300-320;19000
+M;<High School;Commercial;Van;Highly Urban/ Urban;dev_integral;15/05/2022;1;1;1872511;50-59 ans;oui;oui;oui;20000-29999;280-300;27200
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;03/01/2022;2;6;5987808;70-79 ans;oui;oui;non;inconnu;320-340;55110
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;22/01/2022;1;11;6694568;70-79 ans;non;non;oui;130000-139999;320-340;21170
+F;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;03/04/2022;1;4;5322912;80 et plus;non;non;non;20000-29999;380-400;35400
+F;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;15/03/2022;4;14;4475536;18-29 ans;non;non;oui;30000-39999;300-320;18110
+M;Masters;Private;Van;z_Highly Rural/ Rural;dev_vip;11/05/2022;2;22;8616409;70-79 ans;non;non;non;0-9999;920-940;88260
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_premium;20/02/2022;5;16;7360890;50-59 ans;oui;non;non;60000-69999;500-520;45000
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;07/03/2022;0;6;3655343;40-49 ans;non;non;non;30000-39999;320-340;53410
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;11/04/2022;4;18;4991535;40-49 ans;oui;oui;oui;110000-119999;300-320;36000
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;21/01/2022;0;1;2909273;70-79 ans;oui;oui;non;0-9999;540-560;72130
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;22/03/2022;0;12;3134513;Moins de 18 ans;non;non;oui;60000-69999;300-320;38600
+F;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;11/04/2022;4;13;3782705;50-59 ans;non;non;non;40000-49999;320-340;24290
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;17/01/2022;2;1;2428876;Moins de 18 ans;non;non;non;30000-39999;320-340;82400
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;08/04/2022;4;15;7407781;18-29 ans;oui;oui;non;100000-109999;300-320;72230
+F;<High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_express;10/05/2022;3;8;5853131;18-29 ans;oui;non;non;10000-19999;240-260;20290
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;23/02/2022;1;1;1707772;30-39 ans;oui;non;non;10000-19999;280-300;72540
+M;<High School;Private;Pickup;z_Highly Rural/ Rural;dev_express;02/04/2022;1;1;5087792;60-69 ans;oui;non;non;60000-69999;260-280;94500
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;15/02/2022;1;6;5553540;40-49 ans;non;non;non;50000-59999;280-300;69650
+M;z_High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;08/01/2022;0;1;3269428;80 et plus;non;non;oui;20000-29999;240-260;18120
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;24/03/2022;4;16;2991919;80 et plus;oui;non;non;80000-89999;320-340;42000
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;24/05/2022;5;11;6004362;60-69 ans;oui;non;non;60000-69999;280-300;84160
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;17/01/2022;5;15;3162408;30-39 ans;non;non;oui;50000-59999;280-300;18330
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;17/03/2022;3;1;3040032;70-79 ans;oui;oui;non;60000-69999;280-300;51100
+F;<High School;Commercial;Van;Highly Urban/ Urban;dev_express;05/01/2022;1;5;3569950;Moins de 18 ans;oui;oui;non;30000-39999;240-260;40100
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_premium;13/05/2022;0;5;4656014;18-29 ans;non;non;oui;120000-129999;380-400;43000
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;14/01/2022;0;8;6625410;70-79 ans;non;non;non;20000-29999;260-280;40090
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_premium;16/01/2022;1;1;7373671;70-79 ans;non;non;oui;30000-39999;460-480;72500
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;13/04/2022;1;6;1475926;30-39 ans;oui;non;non;30000-39999;300-320;92000
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;09/03/2022;0;11;7910719;Moins de 18 ans;non;non;non;80000-89999;240-260;05000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;15/03/2022;0;1;4897237;60-69 ans;non;non;oui;110000-119999;240-260;61430
+M;Bachelors;Commercial;Van;z_Highly Rural/ Rural;dev_integral;07/02/2022;2;8;4501839;60-69 ans;non;non;oui;80000-89999;320-340;18000
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_express;08/03/2022;0;3;6771186;70-79 ans;non;non;non;60000-69999;260-280;78114
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_premium;07/01/2022;0;5;8649111;18-29 ans;oui;non;oui;0-9999;420-440;48000
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_premium;13/04/2022;0;15;1759722;40-49 ans;non;non;non;30000-39999;420-440;39130
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_premium;10/03/2022;4;8;1395989;Moins de 18 ans;non;non;oui;50000-59999;460-480;82300
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;02/05/2022;1;8;4144448;40-49 ans;non;non;non;80000-89999;240-260;49400
+F;<High School;Private;Pickup;Highly Urban/ Urban;dev_express;04/05/2022;2;1;2568131;50-59 ans;non;non;oui;30000-39999;260-280;12160
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;17/05/2022;2;12;7217992;Moins de 18 ans;non;non;non;inconnu;260-280;47420
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;25/04/2022;0;11;6836621;50-59 ans;non;non;oui;50000-59999;260-280;23000
+M;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_express;11/05/2022;1;10;2619755;30-39 ans;non;non;non;130000-139999;260-280;79270
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;05/02/2022;1;12;3495622;50-59 ans;oui;non;non;50000-59999;280-300;26600
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;03/03/2022;6;1;3299534;60-69 ans;oui;non;non;0-9999;280-300;82170
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;18/05/2022;0;5;3616802;60-69 ans;oui;oui;non;20000-29999;300-320;63000
+F;z_High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;25/02/2022;0;9;4734904;40-49 ans;non;non;oui;50000-59999;320-340;95270
+M;<High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_vip;18/01/2022;5;5;3039327;80 et plus;non;non;non;30000-39999;680-700;82000
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_premium;08/05/2022;3;7;5642983;50-59 ans;non;non;non;10000-19999;500-520;87000
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;19/02/2022;0;5;1735207;60-69 ans;oui;non;non;40000-49999;260-280;77400
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_express;10/01/2022;6;3;4891664;Moins de 18 ans;non;non;oui;inconnu;260-280;55170
+F;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;30/03/2022;1;1;7990955;70-79 ans;non;non;non;70000-79999;260-280;89140
+F;Masters;Private;Van;Highly Urban/ Urban;dev_express;07/05/2022;1;;3213233;18-29 ans;oui;oui;oui;60000-69999;260-280;95370
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;20/05/2022;0;1;4538798;Moins de 18 ans;non;non;oui;20000-29999;260-280;02190
+F;Masters;Commercial;Van;Highly Urban/ Urban;dev_integral;07/05/2022;3;21;1981577;50-59 ans;non;non;oui;40000-49999;320-340;21200
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_premium;04/04/2022;0;1;9773636;70-79 ans;non;non;non;40000-49999;400-420;35630
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;04/03/2022;0;10;4622517;Moins de 18 ans;non;non;non;60000-69999;280-300;57100
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;11/02/2022;1;;3408922;70-79 ans;non;non;oui;inconnu;280-300;17120
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_premium;31/03/2022;0;7;3321957;80 et plus;oui;oui;non;inconnu;420-440;55100
+F;Masters;Private;Van;Highly Urban/ Urban;dev_express;26/01/2022;0;1;5704537;70-79 ans;non;non;non;130000-139999;260-280;75008
+M;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;13/02/2022;2;1;5835850;80 et plus;oui;oui;non;inconnu;300-320;64000
+M;PhD;Private;Pickup;Highly Urban/ Urban;dev_premium;15/01/2022;0;17;5258804;Moins de 18 ans;non;non;non;90000-99999;420-440;84000
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;23/02/2022;0;9;7454614;18-29 ans;non;non;non;70000-79999;320-340;86330
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;21/03/2022;0;15;9527697;18-29 ans;oui;non;non;80000-89999;300-320;70000
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;29/04/2022;0;11;5628279;30-39 ans;non;non;non;120000-129999;280-300;90300
+M;Masters;Private;z_SUV;z_Highly Rural/ Rural;dev_express;07/03/2022;0;9;5340963;60-69 ans;non;non;non;inconnu;260-280;62200
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;29/05/2022;0;5;4498512;70-79 ans;oui;non;non;10000-19999;280-300;61110
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;10/03/2022;2;1;6246156;50-59 ans;oui;non;oui;inconnu;260-280;85120
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;08/02/2022;2;11;4360650;60-69 ans;oui;non;oui;0-9999;240-260;60400
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_integral;11/04/2022;8;11;8090712;18-29 ans;non;non;non;50000-59999;300-320;18200
+M;Bachelors;Private;Van;Highly Urban/ Urban;dev_integral;26/05/2022;0;9;8322214;80 et plus;non;non;non;inconnu;280-300;05100
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;18/04/2022;4;6;3795238;Moins de 18 ans;oui;oui;non;70000-79999;260-280;92340
+F;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_express;19/02/2022;0;17;9276586;Moins de 18 ans;non;non;non;50000-59999;240-260;55000
+F;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;12/04/2022;3;9;6451336;30-39 ans;non;non;non;50000-59999;320-340;21220
+M;<High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;17/04/2022;0;3;2539008;60-69 ans;oui;non;non;30000-39999;300-320;51100
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;23/03/2022;4;7;6141479;60-69 ans;oui;non;oui;inconnu;300-320;50480
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;05/02/2022;4;14;5683793;40-49 ans;non;non;non;70000-79999;280-300;39700
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_premium;26/03/2022;0;;6645978;60-69 ans;oui;non;non;40000-49999;380-400;66300
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;18/04/2022;3;10;2529853;40-49 ans;non;non;non;100000-109999;320-340;66140
+M;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;30/01/2022;0;1;9240643;Moins de 18 ans;non;non;non;50000-59999;280-300;87270
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;02/02/2022;6;1;7724960;Moins de 18 ans;oui;non;non;10000-19999;240-260;01440
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;08/04/2022;0;6;9680304;50-59 ans;oui;oui;oui;80000-89999;300-320;51240
+F;z_High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;01/04/2022;4;1;8719787;60-69 ans;non;non;oui;50000-59999;260-280;63118
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;07/01/2022;0;1;3209089;18-29 ans;non;non;non;40000-49999;320-340;38120
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;06/05/2022;3;14;2912834;60-69 ans;oui;non;non;120000-129999;280-300;38170
+M;Bachelors;Private;Van;Highly Urban/ Urban;dev_premium;26/05/2022;2;9;8147882;18-29 ans;non;non;oui;90000-99999;500-520;04180
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;09/03/2022;0;1;2940674;60-69 ans;oui;non;non;inconnu;320-340;69210
+M;z_High School;Private;Van;Highly Urban/ Urban;dev_integral;04/02/2022;3;10;4165548;50-59 ans;oui;oui;non;60000-69999;300-320;61250
+M;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;30/03/2022;3;9;5096664;60-69 ans;oui;non;non;90000-99999;260-280;89300
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;05/01/2022;0;1;2157554;50-59 ans;non;non;oui;30000-39999;300-320;62100
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_express;13/03/2022;0;8;8622510;60-69 ans;non;non;oui;50000-59999;240-260;18400
+M;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_integral;13/04/2022;0;12;2863677;60-69 ans;oui;non;non;inconnu;300-320;13180
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;03/05/2022;1;14;5953614;60-69 ans;oui;non;non;110000-119999;260-280;88300
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;19/03/2022;0;8;2563780;30-39 ans;non;non;non;100000-109999;320-340;11100
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;12/05/2022;3;9;9634955;Moins de 18 ans;oui;oui;non;20000-29999;300-320;41330
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;19/04/2022;4;3;1248675;70-79 ans;non;non;non;30000-39999;260-280;09100
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;09/03/2022;0;20;4800747;18-29 ans;non;non;oui;50000-59999;240-260;29830
+M;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;30/03/2022;1;9;3077306;50-59 ans;non;non;oui;210000-219999;280-300;26320
+M;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;17/01/2022;2;6;1188392;40-49 ans;non;non;non;30000-39999;320-340;61160
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;14/04/2022;7;1;2362308;50-59 ans;oui;non;non;30000-39999;240-260;75020
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_premium;07/04/2022;1;8;3267290;60-69 ans;non;non;non;inconnu;340-360;08000
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;26/01/2022;1;10;8218486;18-29 ans;non;non;oui;60000-69999;320-340;01700
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;26/01/2022;2;16;2103853;18-29 ans;oui;non;non;110000-119999;280-300;83400
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;15/03/2022;2;11;7374821;40-49 ans;non;non;non;100000-109999;320-340;95630
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;30/05/2022;0;17;6796000;50-59 ans;non;non;oui;90000-99999;320-340;18110
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_premium;21/05/2022;0;8;6917391;40-49 ans;non;non;oui;30000-39999;380-400;27120
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;01/01/2022;0;10;8582066;Moins de 18 ans;oui;non;oui;90000-99999;320-340;80000
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;24/02/2022;2;15;1518738;80 et plus;non;non;non;90000-99999;240-260;80100
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;12/01/2022;2;10;9586420;18-29 ans;non;non;non;130000-139999;320-340;92700
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;14/01/2022;0;1;9235625;70-79 ans;oui;oui;non;10000-19999;320-340;82110
+F;<High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;02/02/2022;1;7;2682660;60-69 ans;oui;non;non;10000-19999;300-320;05200
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;10/04/2022;2;14;1123973;50-59 ans;non;non;oui;70000-79999;320-340;83500
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;28/05/2022;4;5;9099420;Moins de 18 ans;non;non;non;70000-79999;300-320;29200
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;19/05/2022;1;1;7600326;30-39 ans;non;non;oui;50000-59999;320-340;19800
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;05/03/2022;0;9;4587257;50-59 ans;non;non;oui;60000-69999;280-300;16440
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_express;04/01/2022;3;16;9365642;70-79 ans;non;non;non;60000-69999;260-280;75019
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;23/04/2022;2;9;8287508;18-29 ans;non;non;oui;50000-59999;280-300;76910
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;19/01/2022;2;16;6929551;70-79 ans;non;non;non;40000-49999;300-320;93600
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;14/05/2022;0;19;8355271;60-69 ans;non;non;non;50000-59999;280-300;16100
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;22/02/2022;4;4;5965452;60-69 ans;non;non;non;50000-59999;320-340;54110
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;24/02/2022;0;17;6850303;30-39 ans;non;non;non;80000-89999;300-320;10000
+F;Bachelors;Commercial;z_SUV;z_Highly Rural/ Rural;dev_integral;14/01/2022;1;1;5622765;40-49 ans;oui;non;non;100000-109999;280-300;64210
+M;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_premium;06/01/2022;1;16;9469334;60-69 ans;non;non;non;70000-79999;480-500;40160
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;21/01/2022;3;22;8512640;Moins de 18 ans;oui;oui;non;80000-89999;280-300;42370
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;12/04/2022;2;12;9781732;40-49 ans;non;non;oui;170000-179999;280-300;52290
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;05/01/2022;1;15;4666179;50-59 ans;non;non;non;180000-189999;400-420;03300
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;10/01/2022;1;11;5689709;60-69 ans;non;non;non;0-9999;320-340;04100
+F;Bachelors;Commercial;Minivan;z_Highly Rural/ Rural;dev_premium;08/04/2022;0;1;7262455;60-69 ans;non;non;non;60000-69999;320-340;47500
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;30/03/2022;3;15;6681125;60-69 ans;non;non;oui;80000-89999;280-300;34400
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;12/04/2022;0;16;7176756;70-79 ans;non;non;oui;60000-69999;280-300;29000
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;15/03/2022;1;1;1354667;80 et plus;non;non;oui;60000-69999;300-320;83230
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;12/03/2022;4;1;8598411;80 et plus;oui;non;non;0-9999;320-340;01220
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_integral;14/03/2022;1;17;4173710;60-69 ans;non;non;non;50000-59999;280-300;20240
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;09/01/2022;0;13;8613901;80 et plus;oui;non;oui;40000-49999;320-340;36000
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;27/02/2022;1;7;4875164;50-59 ans;non;non;non;inconnu;260-280;13821
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;02/02/2022;0;10;2625260;70-79 ans;oui;oui;non;10000-19999;460-480;95550
+M;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_express;06/03/2022;0;1;9186423;70-79 ans;non;non;non;70000-79999;280-300;52000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;06/01/2022;0;12;7293244;50-59 ans;non;non;oui;50000-59999;240-260;04160
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;03/04/2022;0;9;1329424;30-39 ans;non;non;non;10000-19999;320-340;25120
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;30/04/2022;0;10;1248575;60-69 ans;oui;non;non;130000-139999;280-300;32500
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;19/03/2022;0;13;3936606;80 et plus;non;non;non;90000-99999;300-320;63800
+F;Bachelors;Private;Minivan;z_Highly Rural/ Rural;dev_express;24/01/2022;0;9;8225479;80 et plus;non;non;oui;40000-49999;260-280;29440
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;23/02/2022;0;1;8577434;60-69 ans;oui;non;oui;0-9999;300-320;78360
+M;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;17/05/2022;7;8;1025835;60-69 ans;oui;non;non;inconnu;280-300;46220
+F;<High School;Private;Van;Highly Urban/ Urban;dev_express;06/03/2022;4;1;4706273;18-29 ans;non;non;non;inconnu;260-280;69400
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_integral;13/03/2022;1;1;3172816;Moins de 18 ans;non;non;non;0-9999;320-340;91350
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_premium;10/02/2022;0;10;7028000;Moins de 18 ans;oui;non;non;inconnu;440-460;16130
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;16/01/2022;0;16;7249769;60-69 ans;non;non;non;inconnu;300-320;95630
+M;z_High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;19/05/2022;6;11;2200725;50-59 ans;non;non;oui;30000-39999;240-260;60350
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;18/04/2022;2;18;6590277;70-79 ans;oui;non;non;180000-189999;240-260;61000
+M;Bachelors;Commercial;z_SUV;z_Highly Rural/ Rural;dev_integral;13/01/2022;2;5;8587741;60-69 ans;oui;non;non;10000-19999;320-340;21000
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;28/05/2022;0;1;1006429;50-59 ans;non;non;oui;60000-69999;320-340;20000
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;28/03/2022;0;15;1419110;40-49 ans;non;non;oui;70000-79999;260-280;30800
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;15/03/2022;1;3;5657578;80 et plus;oui;non;non;40000-49999;300-320;75012
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;10/03/2022;0;7;9593222;60-69 ans;oui;non;oui;inconnu;300-320;61360
+M;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_express;20/01/2022;4;5;8638053;70-79 ans;oui;non;non;70000-79999;240-260;16600
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;09/04/2022;0;22;7281136;60-69 ans;non;non;oui;60000-69999;300-320;06330
+M;PhD;Commercial;Pickup;Highly Urban/ Urban;dev_premium;05/03/2022;1;21;9047543;30-39 ans;non;non;non;90000-99999;420-440;36120
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_premium;09/04/2022;0;14;1953262;Moins de 18 ans;oui;oui;oui;80000-89999;420-440;74130
+F;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;16/02/2022;5;1;8139926;50-59 ans;oui;oui;non;30000-39999;280-300;75017
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;06/04/2022;6;10;8424261;70-79 ans;oui;non;oui;10000-19999;320-340;67290
+F;Masters;Private;Van;Highly Urban/ Urban;dev_express;23/03/2022;4;11;5343221;60-69 ans;non;non;non;80000-89999;260-280;11000
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;25/01/2022;3;1;9026499;70-79 ans;oui;non;non;30000-39999;280-300;72530
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;21/01/2022;1;7;7120522;18-29 ans;oui;non;non;inconnu;260-280;12850
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;27/01/2022;8;15;2962827;70-79 ans;oui;non;non;140000-149999;320-340;86550
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;22/04/2022;9;1;6546930;70-79 ans;oui;non;non;inconnu;320-340;42800
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;13/03/2022;0;17;7537380;60-69 ans;non;non;non;110000-119999;260-280;21420
+F;PhD;Commercial;Van;Highly Urban/ Urban;dev_premium;15/01/2022;4;8;1647575;60-69 ans;non;non;non;170000-179999;380-400;76520
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;24/02/2022;3;15;8149831;Moins de 18 ans;non;non;non;inconnu;280-300;12300
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;27/03/2022;0;1;1832505;50-59 ans;non;non;non;90000-99999;320-340;38410
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_express;02/04/2022;0;10;4800636;60-69 ans;non;non;oui;40000-49999;280-300;89100
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;18/02/2022;1;1;4308532;18-29 ans;non;non;oui;30000-39999;280-300;73870
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;17/04/2022;2;7;3074734;70-79 ans;oui;oui;non;60000-69999;280-300;70270
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;20/05/2022;3;;7644220;40-49 ans;non;non;non;20000-29999;260-280;23320
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;29/01/2022;0;1;9447150;Moins de 18 ans;non;non;non;10000-19999;300-320;60510
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;01/05/2022;3;7;4961629;40-49 ans;non;non;non;inconnu;260-280;30130
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_premium;02/05/2022;4;1;9196861;18-29 ans;non;non;non;inconnu;420-440;03210
+F;PhD;Commercial;Van;Highly Urban/ Urban;dev_express;22/04/2022;4;17;1120343;60-69 ans;non;non;oui;90000-99999;260-280;26120
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;24/01/2022;7;18;8124526;60-69 ans;non;non;non;70000-79999;280-300;34590
+M;PhD;Private;Pickup;Highly Urban/ Urban;dev_premium;23/02/2022;0;9;6329959;18-29 ans;non;non;non;170000-179999;500-520;50810
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_premium;22/05/2022;4;1;7723509;60-69 ans;non;non;oui;60000-69999;440-460;51100
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_vip;17/03/2022;0;1;5533730;40-49 ans;oui;oui;non;20000-29999;960-980;78200
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;04/04/2022;0;10;4720936;Moins de 18 ans;non;non;oui;90000-99999;260-280;65000
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;01/05/2022;4;4;2339214;18-29 ans;non;non;non;20000-29999;300-320;32430
+F;<High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;02/05/2022;4;6;4942214;80 et plus;oui;non;oui;20000-29999;280-300;52120
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;28/03/2022;0;7;8426451;18-29 ans;oui;oui;non;110000-119999;280-300;92150
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;19/05/2022;1;12;5404292;40-49 ans;non;non;oui;170000-179999;300-320;49250
+M;z_High School;Private;Van;Highly Urban/ Urban;dev_express;14/05/2022;0;6;4287261;50-59 ans;non;non;non;20000-29999;260-280;75002
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_premium;06/05/2022;0;13;4997032;80 et plus;oui;non;non;120000-129999;500-520;41200
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;25/04/2022;2;10;9379475;60-69 ans;non;non;non;40000-49999;400-420;61140
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;18/03/2022;6;13;2442229;30-39 ans;non;non;non;40000-49999;480-500;57640
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;15/04/2022;0;17;2131310;30-39 ans;non;non;non;210000-219999;300-320;10600
+F;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_premium;20/01/2022;0;9;1395998;60-69 ans;non;non;non;140000-149999;400-420;16100
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_vip;14/03/2022;4;9;7928246;Moins de 18 ans;non;non;non;inconnu;740-760;18000
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;08/01/2022;3;12;2076832;80 et plus;non;non;non;50000-59999;240-260;05700
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;21/04/2022;0;6;5711284;70-79 ans;oui;non;non;inconnu;280-300;11200
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_premium;19/02/2022;4;;8296973;80 et plus;non;non;non;40000-49999;520-540;07700
+M;z_High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;04/04/2022;2;8;9440589;80 et plus;oui;non;oui;50000-59999;300-320;62830
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_premium;17/01/2022;4;6;9047097;40-49 ans;oui;oui;non;110000-119999;340-360;59143
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;14/01/2022;5;12;2787096;40-49 ans;non;non;non;190000-199999;260-280;68700
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;01/02/2022;4;13;1667418;50-59 ans;non;non;non;130000-139999;300-320;04210
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;03/04/2022;0;1;1282994;60-69 ans;non;non;non;50000-59999;320-340;52100
+F;PhD;Private;Minivan;z_Highly Rural/ Rural;dev_integral;25/02/2022;5;15;3476951;60-69 ans;non;non;non;30000-39999;320-340;70290
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;14/05/2022;0;5;5890936;Moins de 18 ans;oui;oui;non;10000-19999;240-260;83260
+M;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;01/02/2022;2;1;3194800;40-49 ans;non;non;non;20000-29999;240-260;82100
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;09/02/2022;1;16;5655908;Moins de 18 ans;non;non;oui;170000-179999;440-460;17220
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;13/01/2022;3;9;5242226;80 et plus;oui;non;oui;70000-79999;320-340;35500
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;14/05/2022;0;8;5631256;50-59 ans;non;non;non;60000-69999;260-280;26160
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;27/01/2022;3;;2960080;50-59 ans;non;non;non;70000-79999;460-480;58000
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;03/01/2022;0;7;4794529;50-59 ans;non;non;non;50000-59999;320-340;43110
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;26/03/2022;4;7;1365146;80 et plus;non;non;non;inconnu;320-340;49260
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;07/03/2022;0;10;5729948;80 et plus;oui;non;non;20000-29999;320-340;69890
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;01/03/2022;0;7;7838638;60-69 ans;non;non;non;20000-29999;280-300;70210
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;04/05/2022;0;13;9109744;60-69 ans;non;non;oui;70000-79999;320-340;43220
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;04/02/2022;0;12;6800677;Moins de 18 ans;non;non;non;50000-59999;260-280;05300
+M;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_premium;26/04/2022;6;9;2934842;80 et plus;non;non;oui;40000-49999;380-400;50440
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;02/01/2022;1;7;7923783;50-59 ans;non;non;non;90000-99999;300-320;24800
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;26/03/2022;7;22;7837073;60-69 ans;non;non;non;120000-129999;320-340;72000
+M;<High School;Private;Van;Highly Urban/ Urban;dev_integral;16/01/2022;3;1;4907795;50-59 ans;non;non;oui;20000-29999;320-340;88000
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;26/05/2022;0;;4089485;80 et plus;oui;non;non;60000-69999;300-320;92140
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;24/03/2022;0;1;3730571;80 et plus;non;non;oui;50000-59999;280-300;77700
+M;<High School;Private;Sports Car;z_Highly Rural/ Rural;dev_express;20/04/2022;2;1;7820673;50-59 ans;oui;oui;non;40000-49999;240-260;90500
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;11/05/2022;0;9;9549682;40-49 ans;non;non;oui;90000-99999;320-340;42190
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;13/01/2022;0;10;8712320;50-59 ans;non;non;non;40000-49999;280-300;63000
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;21/03/2022;2;9;6469005;50-59 ans;non;non;oui;90000-99999;260-280;16110
+F;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_express;18/01/2022;0;11;2387175;40-49 ans;non;non;non;140000-149999;280-300;64140
+F;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;13/04/2022;1;1;1219711;60-69 ans;non;non;non;50000-59999;240-260;34170
+F;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_express;24/04/2022;0;15;1017483;70-79 ans;non;non;non;inconnu;260-280;84000
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;10/02/2022;4;7;8322749;60-69 ans;non;non;non;0-9999;500-520;27370
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;28/02/2022;0;1;1101729;70-79 ans;non;non;oui;inconnu;280-300;54840
+M;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_express;05/02/2022;0;8;6859037;60-69 ans;oui;non;non;inconnu;240-260;56100
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_express;27/03/2022;1;9;1142838;80 et plus;non;non;non;90000-99999;280-300;77440
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;05/01/2022;2;7;5591589;30-39 ans;non;non;non;inconnu;240-260;91410
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;03/05/2022;2;14;1067773;50-59 ans;non;non;non;50000-59999;240-260;25300
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;26/03/2022;0;1;1065807;18-29 ans;non;non;oui;30000-39999;240-260;78980
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;31/01/2022;1;15;5455712;80 et plus;non;non;non;20000-29999;260-280;69520
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;30/04/2022;1;20;6138876;60-69 ans;non;non;non;110000-119999;260-280;34560
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;04/02/2022;0;13;5930738;Moins de 18 ans;oui;non;non;90000-99999;500-520;92000
+M;z_High School;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;20/01/2022;4;9;4048922;80 et plus;oui;non;non;40000-49999;300-320;17200
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;22/03/2022;0;19;7381105;60-69 ans;non;non;oui;120000-129999;300-320;71250
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_premium;31/05/2022;0;13;4372226;70-79 ans;oui;non;non;inconnu;400-420;36140
+M;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;05/01/2022;4;1;1287089;40-49 ans;non;non;non;inconnu;280-300;72330
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;23/04/2022;10;0;7876630;50-59 ans;oui;non;oui;0-9999;260-280;19410
+F;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_express;02/05/2022;0;1;1341942;30-39 ans;non;non;non;80000-89999;260-280;91150
+F;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;11/04/2022;0;10;9202154;Moins de 18 ans;oui;oui;oui;40000-49999;280-300;33440
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;04/02/2022;4;1;2595952;30-39 ans;non;non;non;80000-89999;260-280;33290
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_vip;22/01/2022;0;1;4923750;50-59 ans;non;non;non;20000-29999;780-800;75020
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;18/03/2022;2;11;1224242;40-49 ans;non;non;oui;90000-99999;260-280;33510
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_integral;08/02/2022;0;6;6491154;50-59 ans;oui;non;non;inconnu;300-320;61110
+M;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_express;21/02/2022;0;8;2386731;18-29 ans;oui;oui;non;0-9999;260-280;34830
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_express;20/05/2022;0;11;3189569;30-39 ans;oui;oui;oui;60000-69999;260-280;08000
+M;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_express;19/02/2022;2;1;8441526;70-79 ans;oui;non;non;40000-49999;240-260;42170
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_premium;13/04/2022;0;1;3962278;Moins de 18 ans;oui;non;oui;60000-69999;500-520;93450
+F;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_integral;25/03/2022;0;8;4108811;50-59 ans;non;non;non;50000-59999;320-340;89340
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;08/05/2022;1;17;8349307;18-29 ans;non;non;non;90000-99999;240-260;06110
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;08/01/2022;3;8;4704672;70-79 ans;oui;non;non;inconnu;260-280;65100
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;20/02/2022;2;1;8535293;80 et plus;non;non;oui;inconnu;280-300;35131
+F;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;17/02/2022;1;6;8277735;40-49 ans;non;non;non;100000-109999;300-320;08000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;24/01/2022;0;9;2650656;50-59 ans;oui;non;non;60000-69999;320-340;66380
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;23/05/2022;4;14;8508042;70-79 ans;oui;oui;non;60000-69999;300-320;18000
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_express;12/05/2022;0;11;7180374;60-69 ans;non;non;non;60000-69999;260-280;19200
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;25/02/2022;0;6;2261760;80 et plus;oui;oui;non;70000-79999;280-300;77720
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;20/05/2022;0;;2117661;60-69 ans;oui;oui;oui;0-9999;260-280;78340
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;22/02/2022;0;7;9205890;70-79 ans;oui;non;oui;180000-189999;380-400;06150
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;23/02/2022;0;6;8303535;18-29 ans;oui;oui;oui;30000-39999;240-260;41240
+F;z_High School;Commercial;z_SUV;z_Highly Rural/ Rural;dev_express;02/05/2022;0;7;5947128;50-59 ans;non;non;non;0-9999;280-300;37150
+F;<High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;20/03/2022;6;4;2090378;50-59 ans;oui;non;non;20000-29999;300-320;41200
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;23/04/2022;4;10;4957941;Moins de 18 ans;oui;non;non;0-9999;300-320;87500
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_premium;23/04/2022;1;12;6968246;40-49 ans;non;non;non;40000-49999;320-340;25200
+M;z_High School;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_express;13/04/2022;0;1;9363366;50-59 ans;non;non;non;20000-29999;260-280;72100
+M;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;26/03/2022;2;10;6808467;Moins de 18 ans;non;non;oui;60000-69999;280-300;85270
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;28/02/2022;0;6;9313094;50-59 ans;non;non;oui;90000-99999;280-300;75016
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;18/03/2022;0;;3509933;70-79 ans;non;non;non;180000-189999;300-320;10440
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_express;17/02/2022;4;1;5367183;50-59 ans;oui;oui;non;80000-89999;240-260;03410
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_premium;23/02/2022;4;10;8694448;80 et plus;non;non;non;50000-59999;340-360;65220
+M;<High School;Private;Minivan;Highly Urban/ Urban;dev_integral;03/05/2022;0;;5416407;18-29 ans;oui;non;oui;20000-29999;280-300;35760
+M;z_High School;Private;Van;Highly Urban/ Urban;dev_premium;17/01/2022;1;12;9834669;60-69 ans;non;non;oui;20000-29999;520-540;69490
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;17/05/2022;1;1;2647221;40-49 ans;non;non;non;100000-109999;300-320;63430
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;08/02/2022;3;1;3125070;Moins de 18 ans;oui;oui;oui;110000-119999;420-440;69410
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;06/01/2022;0;8;6950698;50-59 ans;oui;non;non;30000-39999;260-280;55100
+F;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_express;18/03/2022;0;;9696435;60-69 ans;non;non;non;170000-179999;240-260;61310
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;20/04/2022;4;8;4167981;80 et plus;non;non;non;50000-59999;240-260;86550
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;05/01/2022;6;16;1308475;Moins de 18 ans;non;non;non;70000-79999;320-340;86320
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;07/03/2022;1;8;1219984;Moins de 18 ans;oui;non;oui;inconnu;260-280;64800
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_premium;08/04/2022;0;10;1206616;30-39 ans;non;non;non;60000-69999;420-440;92700
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;13/01/2022;3;13;3631178;60-69 ans;non;non;non;140000-149999;320-340;67380
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;22/01/2022;0;19;3974659;50-59 ans;non;non;oui;120000-129999;280-300;29640
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;01/03/2022;2;19;7833315;80 et plus;oui;oui;non;30000-39999;260-280;05110
+M;<High School;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;17/05/2022;2;5;6269541;30-39 ans;non;non;non;inconnu;300-320;58110
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;27/02/2022;2;19;5717601;70-79 ans;non;non;non;300000-309999;320-340;52290
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;14/01/2022;2;8;7108092;Moins de 18 ans;oui;non;non;10000-19999;240-260;50000
+M;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_vip;12/04/2022;4;11;6802322;30-39 ans;oui;oui;non;inconnu;560-580;41350
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;03/04/2022;0;12;2120476;60-69 ans;non;non;non;inconnu;320-340;52400
+M;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;15/02/2022;0;7;5084703;70-79 ans;oui;oui;oui;30000-39999;340-360;47300
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;21/04/2022;0;15;5096289;50-59 ans;non;non;oui;70000-79999;260-280;48190
+M;z_High School;Private;Sports Car;z_Highly Rural/ Rural;dev_premium;13/04/2022;0;1;2232169;18-29 ans;oui;non;non;0-9999;480-500;30190
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_premium;11/02/2022;2;8;9725980;60-69 ans;non;non;oui;10000-19999;440-460;64800
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_premium;13/02/2022;6;1;4551069;60-69 ans;non;non;oui;40000-49999;360-380;38080
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_premium;16/05/2022;1;15;2640590;70-79 ans;non;non;non;100000-109999;360-380;12630
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;18/03/2022;0;20;1195597;50-59 ans;oui;oui;non;180000-189999;320-340;61000
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;18/01/2022;5;;7530734;60-69 ans;non;non;non;60000-69999;280-300;71230
+F;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;23/05/2022;1;12;4169354;Moins de 18 ans;non;non;non;170000-179999;240-260;92000
+M;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;16/03/2022;0;16;7890593;70-79 ans;non;non;non;190000-199999;240-260;44490
+M;PhD;Private;Sports Car;Highly Urban/ Urban;dev_integral;04/04/2022;0;;9067519;18-29 ans;non;non;oui;170000-179999;320-340;88400
+M;<High School;Private;Sports Car;Highly Urban/ Urban;dev_integral;31/03/2022;0;1;9486282;40-49 ans;oui;non;non;30000-39999;280-300;07300
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;28/02/2022;1;22;3378340;50-59 ans;non;non;non;70000-79999;260-280;13380
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_premium;16/04/2022;0;1;4500672;60-69 ans;non;non;oui;40000-49999;400-420;39380
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;12/02/2022;4;15;1768850;40-49 ans;non;non;non;40000-49999;440-460;71480
+M;Bachelors;Private;z_SUV;z_Highly Rural/ Rural;dev_express;29/01/2022;0;13;8772907;50-59 ans;non;non;non;inconnu;260-280;80140
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;30/04/2022;0;1;7018033;50-59 ans;non;non;non;10000-19999;260-280;31620
+F;Masters;Commercial;Van;Highly Urban/ Urban;dev_integral;25/02/2022;0;18;9284918;70-79 ans;non;non;non;90000-99999;300-320;82340
+M;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;30/04/2022;3;1;3144963;Moins de 18 ans;oui;non;oui;30000-39999;260-280;09100
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;25/02/2022;2;17;5987771;80 et plus;non;non;non;80000-89999;240-260;76600
+F;<High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;06/05/2022;1;1;3693430;50-59 ans;non;non;non;30000-39999;320-340;62164
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;06/04/2022;0;7;8177598;30-39 ans;non;non;non;30000-39999;300-320;22960
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;06/03/2022;5;13;2019598;60-69 ans;non;non;non;60000-69999;320-340;17340
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;04/03/2022;0;16;7221747;80 et plus;non;non;oui;270000-279999;260-280;38770
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;06/05/2022;0;10;7551129;70-79 ans;non;non;non;60000-69999;240-260;47200
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;01/02/2022;3;21;5709261;Moins de 18 ans;oui;non;non;60000-69999;320-340;16600
+M;PhD;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;16/03/2022;1;23;8505389;60-69 ans;oui;non;non;110000-119999;240-260;09100
+F;<High School;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;13/03/2022;2;8;6437908;50-59 ans;non;non;non;50000-59999;380-400;62232
+M;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;16/04/2022;0;1;2334103;Moins de 18 ans;non;non;non;70000-79999;320-340;03200
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;05/03/2022;3;1;6679233;40-49 ans;non;non;oui;70000-79999;260-280;07160
+F;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_premium;01/05/2022;0;1;9074644;40-49 ans;oui;non;non;0-9999;440-460;22000
+M;Bachelors;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;19/01/2022;5;9;3443292;Moins de 18 ans;non;non;non;30000-39999;320-340;01480
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_integral;23/01/2022;3;11;2662074;Moins de 18 ans;non;non;oui;20000-29999;280-300;05100
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;15/03/2022;0;1;9879875;50-59 ans;non;non;non;inconnu;280-300;27310
+F;z_High School;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;14/01/2022;0;1;1506508;Moins de 18 ans;non;non;non;40000-49999;300-320;30000
+M;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;22/01/2022;3;1;8705301;80 et plus;non;non;non;30000-39999;260-280;68200
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;03/03/2022;0;15;7071932;60-69 ans;non;non;non;80000-89999;280-300;40480
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;01/04/2022;1;8;1074714;18-29 ans;oui;non;non;inconnu;300-320;15000
+M;Masters;Commercial;Van;Highly Urban/ Urban;dev_integral;06/04/2022;2;1;8761420;60-69 ans;non;non;oui;60000-69999;320-340;77510
+M;Masters;Commercial;Pickup;Highly Urban/ Urban;dev_express;16/05/2022;0;16;2112303;60-69 ans;non;non;non;120000-129999;260-280;09100
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;15/02/2022;0;11;2106395;Moins de 18 ans;non;non;non;50000-59999;260-280;21250
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;16/02/2022;2;4;4697582;80 et plus;non;non;non;10000-19999;300-320;20290
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_express;14/03/2022;7;6;4622798;50-59 ans;non;non;oui;50000-59999;260-280;87430
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;22/04/2022;0;5;5318897;80 et plus;non;non;non;inconnu;300-320;87200
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;31/05/2022;2;14;4071452;40-49 ans;non;non;non;40000-49999;320-340;12300
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;25/02/2022;0;;8429408;40-49 ans;non;non;non;inconnu;300-320;58420
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;12/03/2022;0;4;4701407;18-29 ans;non;non;oui;10000-19999;240-260;95310
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;25/05/2022;0;1;4607076;50-59 ans;non;non;non;0-9999;240-260;09100
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;11/02/2022;3;1;8099163;50-59 ans;oui;non;non;10000-19999;260-280;34170
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;09/02/2022;0;12;7619957;60-69 ans;oui;oui;non;50000-59999;240-260;55250
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;23/04/2022;0;12;7765387;50-59 ans;oui;non;non;30000-39999;280-300;18250
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;06/03/2022;2;10;7365599;50-59 ans;non;non;non;60000-69999;320-340;80480
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;18/03/2022;2;1;3886203;30-39 ans;oui;non;non;40000-49999;240-260;80100
+F;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_express;29/03/2022;10;1;4297628;70-79 ans;oui;non;non;30000-39999;240-260;03100
+M;z_High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;30/03/2022;0;1;2775394;Moins de 18 ans;non;non;oui;30000-39999;260-280;31460
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;18/05/2022;0;1;7690182;60-69 ans;oui;non;oui;140000-149999;280-300;21000
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;01/05/2022;6;9;2360578;60-69 ans;oui;oui;oui;60000-69999;280-300;64100
+M;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_express;04/03/2022;0;18;7627264;80 et plus;non;non;oui;110000-119999;260-280;55210
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;12/03/2022;0;14;8156800;40-49 ans;oui;oui;oui;110000-119999;520-540;83210
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_express;14/03/2022;3;10;3627760;50-59 ans;non;non;oui;20000-29999;260-280;25240
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_premium;29/01/2022;5;18;4072730;18-29 ans;non;non;oui;50000-59999;360-380;79100
+F;<High School;Private;Sports Car;z_Highly Rural/ Rural;dev_premium;09/05/2022;3;7;9542647;70-79 ans;non;non;non;10000-19999;540-560;57810
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_premium;15/01/2022;0;18;9689933;40-49 ans;non;non;non;110000-119999;480-500;89320
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;11/05/2022;1;1;5140250;Moins de 18 ans;non;non;oui;20000-29999;260-280;69480
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;22/05/2022;0;;8092666;50-59 ans;oui;non;non;80000-89999;300-320;62300
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_premium;16/03/2022;0;15;8605009;50-59 ans;oui;non;non;40000-49999;540-560;59400
+F;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_express;10/02/2022;4;15;3888714;80 et plus;non;non;non;100000-109999;260-280;91670
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;30/05/2022;4;6;4807007;40-49 ans;oui;non;non;inconnu;240-260;86600
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;10/01/2022;1;11;2275018;Moins de 18 ans;non;non;non;inconnu;300-320;19000
+M;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;21/05/2022;2;6;2435217;18-29 ans;oui;oui;non;20000-29999;280-300;04190
+M;Bachelors;Private;Van;Highly Urban/ Urban;dev_express;09/04/2022;4;1;4203621;30-39 ans;non;non;oui;130000-139999;260-280;92140
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_vip;13/02/2022;5;11;8358532;60-69 ans;oui;non;oui;50000-59999;820-840;79160
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;25/02/2022;7;6;9237900;40-49 ans;non;non;non;10000-19999;280-300;86180
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;02/01/2022;6;12;6796075;70-79 ans;oui;oui;non;70000-79999;320-340;07600
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;02/04/2022;0;;7844353;50-59 ans;oui;non;non;70000-79999;280-300;88190
+M;z_High School;Private;Pickup;z_Highly Rural/ Rural;dev_premium;03/05/2022;2;1;3393776;50-59 ans;oui;non;non;inconnu;420-440;01360
+M;PhD;Private;Van;Highly Urban/ Urban;dev_express;25/04/2022;1;14;6646396;50-59 ans;non;non;non;inconnu;260-280;36000
+F;Masters;Private;Pickup;z_Highly Rural/ Rural;dev_integral;08/03/2022;4;16;2525611;40-49 ans;non;non;oui;inconnu;320-340;87230
+F;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;31/05/2022;6;;2388460;30-39 ans;oui;non;oui;30000-39999;320-340;73230
+M;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;21/01/2022;0;8;6256903;40-49 ans;oui;non;oui;inconnu;280-300;32600
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;27/04/2022;1;1;9540212;70-79 ans;non;non;non;10000-19999;300-320;45370
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;25/04/2022;0;1;8182317;30-39 ans;oui;non;non;20000-29999;280-300;66210
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;05/03/2022;0;15;6361305;80 et plus;oui;non;non;130000-139999;280-300;28210
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;25/04/2022;4;15;8584488;30-39 ans;non;non;non;70000-79999;300-320;63720
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;29/03/2022;1;14;2184689;80 et plus;non;non;non;10000-19999;280-300;82100
+M;PhD;Commercial;Sports Car;Highly Urban/ Urban;dev_integral;13/02/2022;6;10;5388484;40-49 ans;non;non;non;inconnu;280-300;91410
+M;z_High School;Private;Sports Car;z_Highly Rural/ Rural;dev_express;11/02/2022;0;1;2755771;30-39 ans;non;non;non;10000-19999;260-280;44600
+F;z_High School;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;28/05/2022;0;9;9765919;30-39 ans;non;non;oui;inconnu;280-300;55300
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_integral;03/04/2022;4;8;2342856;50-59 ans;non;non;non;50000-59999;320-340;34000
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;20/05/2022;3;9;5608899;30-39 ans;non;non;non;20000-29999;320-340;40530
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;22/04/2022;0;6;4627466;70-79 ans;non;non;oui;90000-99999;240-260;48000
+M;z_High School;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;29/01/2022;0;8;8124276;80 et plus;non;non;non;50000-59999;320-340;74500
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;21/05/2022;3;1;5634587;18-29 ans;oui;non;oui;10000-19999;300-320;34000
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_integral;04/05/2022;0;8;7905878;18-29 ans;non;non;non;inconnu;320-340;22700
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_premium;25/01/2022;4;12;6029087;70-79 ans;non;non;oui;30000-39999;460-480;82800
+M;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;27/01/2022;0;1;4761502;70-79 ans;non;non;non;60000-69999;320-340;56100
+M;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;11/03/2022;2;17;4712018;80 et plus;non;non;non;80000-89999;300-320;88190
+F;z_High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_integral;25/05/2022;0;1;5878277;60-69 ans;oui;non;non;60000-69999;300-320;01230
+F;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_premium;20/01/2022;1;5;6032246;70-79 ans;oui;non;non;60000-69999;500-520;77600
+F;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;22/04/2022;0;1;7779260;Moins de 18 ans;non;non;oui;50000-59999;320-340;31320
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;10/02/2022;7;15;5205561;70-79 ans;non;non;non;60000-69999;280-300;41120
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;24/02/2022;4;15;4162860;50-59 ans;non;non;non;190000-199999;260-280;39600
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_express;17/03/2022;2;12;2574475;70-79 ans;non;non;non;40000-49999;260-280;19100
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_express;04/03/2022;4;;6973524;18-29 ans;non;oui;non;130000-139999;240-260;91160
+M;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;20/04/2022;0;1;1846171;40-49 ans;non;non;non;10000-19999;240-260;73100
+F;Masters;Private;Van;Highly Urban/ Urban;dev_express;30/01/2022;4;12;5461244;60-69 ans;non;non;non;60000-69999;260-280;37400
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;11/02/2022;3;17;4309116;50-59 ans;non;non;oui;20000-29999;280-300;56330
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;05/03/2022;0;1;5758081;70-79 ans;oui;non;non;50000-59999;280-300;20240
+F;<High School;Commercial;Van;Highly Urban/ Urban;dev_express;16/02/2022;7;1;3517640;80 et plus;non;non;non;20000-29999;260-280;93420
+F;Masters;Private;Van;Highly Urban/ Urban;dev_integral;25/01/2022;0;12;3075999;Moins de 18 ans;non;non;oui;130000-139999;320-340;66540
+F;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;06/03/2022;0;1;3746417;50-59 ans;oui;oui;oui;120000-129999;260-280;12000
+F;z_High School;Commercial;Van;Highly Urban/ Urban;dev_express;15/04/2022;0;1;5443338;40-49 ans;oui;oui;non;40000-49999;260-280;37130
+M;Bachelors;Commercial;Van;z_Highly Rural/ Rural;dev_integral;24/03/2022;0;11;1802918;50-59 ans;oui;oui;oui;100000-109999;300-320;79000
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;06/02/2022;3;19;3193374;30-39 ans;non;non;oui;150000-159999;300-320;65220
+F;Bachelors;Commercial;Pickup;Highly Urban/ Urban;dev_integral;27/03/2022;1;12;6467133;60-69 ans;non;non;non;50000-59999;320-340;69240
+F;z_High School;Private;Van;Highly Urban/ Urban;dev_express;28/02/2022;0;;5614635;70-79 ans;oui;oui;non;20000-29999;240-260;18110
+F;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;17/02/2022;0;7;5811608;40-49 ans;oui;oui;oui;30000-39999;260-280;53160
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;21/03/2022;3;8;9941400;50-59 ans;non;non;non;50000-59999;300-320;43250
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;29/04/2022;0;1;2594720;50-59 ans;non;non;oui;30000-39999;260-280;16200
+M;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;21/04/2022;5;10;4701513;18-29 ans;non;non;oui;60000-69999;240-260;28190
+F;Bachelors;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;19/01/2022;2;1;3985207;18-29 ans;non;non;oui;120000-129999;300-320;71150
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;09/03/2022;0;15;4518396;70-79 ans;oui;non;non;120000-129999;320-340;73200
+M;PhD;Private;Sports Car;Highly Urban/ Urban;dev_express;01/03/2022;3;17;4629205;30-39 ans;non;non;non;80000-89999;240-260;18150
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_express;25/02/2022;0;18;2379720;18-29 ans;non;non;non;50000-59999;280-300;72230
+F;z_High School;Private;Sports Car;Highly Urban/ Urban;dev_express;04/04/2022;4;4;5180763;70-79 ans;oui;oui;non;10000-19999;260-280;59820
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_express;04/02/2022;5;1;8279757;30-39 ans;oui;oui;non;40000-49999;260-280;95430
+M;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_express;06/01/2022;2;8;7080923;80 et plus;non;non;oui;inconnu;240-260;46090
+F;Masters;Private;z_SUV;Highly Urban/ Urban;dev_integral;15/03/2022;0;14;2664255;18-29 ans;non;non;non;40000-49999;300-320;50610
+M;<High School;Commercial;Van;Highly Urban/ Urban;dev_express;23/01/2022;3;1;3958229;50-59 ans;oui;non;oui;80000-89999;260-280;58400
+M;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;18/02/2022;0;1;2834560;60-69 ans;non;non;oui;20000-29999;300-320;65100
+F;Masters;Private;Sports Car;Highly Urban/ Urban;dev_integral;09/02/2022;8;6;1486190;60-69 ans;oui;non;oui;20000-29999;280-300;03300
+F;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_integral;07/04/2022;0;6;2807550;40-49 ans;oui;non;non;60000-69999;320-340;85270
+F;Masters;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;03/04/2022;0;16;5899559;40-49 ans;non;non;oui;80000-89999;320-340;79290
+F;PhD;Commercial;Pickup;Highly Urban/ Urban;dev_integral;01/03/2022;0;19;9679644;Moins de 18 ans;oui;oui;non;inconnu;320-340;78300
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_premium;31/03/2022;5;13;2287874;50-59 ans;oui;oui;non;80000-89999;320-340;19600
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;24/01/2022;4;8;4532878;40-49 ans;oui;non;non;0-9999;240-260;10440
+F;Bachelors;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;24/02/2022;1;;8953547;60-69 ans;non;non;oui;110000-119999;280-300;11500
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_express;26/01/2022;4;12;4828973;Moins de 18 ans;non;non;non;100000-109999;260-280;35800
+M;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_express;07/02/2022;3;9;2609546;70-79 ans;oui;oui;non;inconnu;260-280;59240
+M;PhD;Private;Van;Highly Urban/ Urban;dev_vip;11/03/2022;0;13;6079737;40-49 ans;oui;non;non;160000-169999;920-940;49290
+F;Masters;Private;Minivan;z_Highly Rural/ Rural;dev_integral;08/03/2022;2;9;4254217;70-79 ans;non;non;oui;30000-39999;320-340;20000
+M;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;15/04/2022;1;8;7143295;30-39 ans;non;non;oui;120000-129999;260-280;87000
+F;Bachelors;Commercial;z_SUV;Highly Urban/ Urban;dev_integral;29/05/2022;0;9;9673871;50-59 ans;non;non;non;80000-89999;300-320;29120
+M;Bachelors;Private;Minivan;z_Highly Rural/ Rural;dev_express;16/04/2022;0;1;2804968;Moins de 18 ans;non;non;non;100000-109999;260-280;26200
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_express;22/01/2022;9;16;4366187;Moins de 18 ans;oui;oui;non;110000-119999;260-280;20290
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;27/03/2022;0;12;7468166;Moins de 18 ans;non;non;oui;70000-79999;340-360;20000
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;04/01/2022;0;10;7167683;Moins de 18 ans;oui;non;non;40000-49999;280-300;60300
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_integral;13/02/2022;8;8;3061323;60-69 ans;non;non;non;80000-89999;320-340;01390
+M;Masters;Private;z_SUV;Highly Urban/ Urban;dev_premium;19/03/2022;5;14;6575405;30-39 ans;oui;non;non;130000-139999;340-360;36200
+M;<High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;23/03/2022;1;1;8789978;60-69 ans;non;non;non;10000-19999;300-320;24600
+M;Masters;Private;Sports Car;Highly Urban/ Urban;dev_express;24/02/2022;0;21;2182649;30-39 ans;non;non;non;50000-59999;260-280;73000
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;30/05/2022;1;1;7849631;70-79 ans;non;non;non;0-9999;320-340;93380
+M;<High School;Private;Van;Highly Urban/ Urban;dev_express;02/03/2022;3;4;4502373;60-69 ans;non;non;oui;20000-29999;260-280;14440
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_integral;20/05/2022;0;16;5030850;60-69 ans;non;non;non;40000-49999;320-340;92000
+F;Masters;Private;Pickup;Highly Urban/ Urban;dev_integral;29/04/2022;0;10;5799292;40-49 ans;non;non;oui;50000-59999;320-340;90000
+M;z_High School;Private;Pickup;Highly Urban/ Urban;dev_express;25/01/2022;1;7;2482046;Moins de 18 ans;oui;non;oui;30000-39999;240-260;95220
+F;z_High School;Commercial;Pickup;Highly Urban/ Urban;dev_integral;03/03/2022;1;1;9425335;40-49 ans;non;non;oui;40000-49999;300-320;64260
+M;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;16/02/2022;0;9;9776032;80 et plus;non;non;oui;50000-59999;280-300;22290
+F;PhD;Private;Minivan;Highly Urban/ Urban;dev_integral;08/04/2022;1;12;7250515;30-39 ans;non;non;oui;90000-99999;320-340;49000
+M;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;24/05/2022;0;9;8602049;18-29 ans;non;non;non;90000-99999;320-340;61400
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;02/03/2022;1;15;7612571;50-59 ans;non;non;oui;100000-109999;300-320;09000
+F;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_premium;09/02/2022;1;12;5680910;80 et plus;non;non;oui;100000-109999;340-360;25200
+M;z_High School;Commercial;Minivan;Highly Urban/ Urban;dev_integral;24/01/2022;2;4;6916107;18-29 ans;oui;oui;non;20000-29999;320-340;13011
+F;Bachelors;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;20/03/2022;0;11;6042428;Moins de 18 ans;oui;non;non;60000-69999;240-260;43100
+M;Bachelors;Private;Pickup;Highly Urban/ Urban;dev_integral;16/03/2022;1;12;7528693;Moins de 18 ans;non;non;oui;60000-69999;300-320;71150
+M;z_High School;Commercial;Minivan;z_Highly Rural/ Rural;dev_express;15/03/2022;0;11;8488868;18-29 ans;non;non;oui;inconnu;260-280;03100
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;24/05/2022;0;8;2430143;Moins de 18 ans;non;non;non;60000-69999;300-320;74440
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;26/03/2022;4;7;1040649;Moins de 18 ans;non;non;non;110000-119999;320-340;21000
+F;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;28/05/2022;5;4;2506425;Moins de 18 ans;non;non;non;70000-79999;300-320;67520
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;19/04/2022;1;12;6750227;70-79 ans;non;non;non;160000-169999;300-320;10700
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_express;04/04/2022;0;1;1469636;30-39 ans;non;non;non;20000-29999;260-280;18410
+F;Bachelors;Private;Minivan;Highly Urban/ Urban;dev_express;25/01/2022;3;8;3382825;40-49 ans;oui;non;oui;70000-79999;260-280;92170
+F;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;25/02/2022;1;10;3787581;80 et plus;non;non;non;20000-29999;320-340;48400
+M;Bachelors;Private;z_SUV;Highly Urban/ Urban;dev_integral;07/03/2022;0;7;1358660;30-39 ans;oui;non;non;50000-59999;280-300;26600
+F;PhD;Private;z_SUV;Highly Urban/ Urban;dev_integral;11/05/2022;0;12;7205097;80 et plus;oui;non;non;20000-29999;300-320;05100
+F;Bachelors;Private;Sports Car;Highly Urban/ Urban;dev_integral;07/02/2022;10;2;3385850;Moins de 18 ans;non;non;non;20000-29999;300-320;59470
+F;z_High School;Private;z_SUV;Highly Urban/ Urban;dev_express;02/03/2022;0;10;4374985;50-59 ans;non;non;non;30000-39999;260-280;27190
+M;<High School;Private;Pickup;Highly Urban/ Urban;dev_integral;29/04/2022;3;1;7384251;Moins de 18 ans;non;non;non;20000-29999;320-340;83560
+M;Bachelors;Private;Sports Car;z_Highly Rural/ Rural;dev_integral;27/02/2022;0;12;5430280;70-79 ans;oui;oui;non;inconnu;280-300;18130
+F;<High School;Commercial;Pickup;z_Highly Rural/ Rural;dev_express;10/02/2022;2;7;3827705;70-79 ans;non;non;oui;20000-29999;260-280;86280
+F;PhD;Private;Pickup;Highly Urban/ Urban;dev_integral;07/05/2022;4;22;8889708;60-69 ans;non;non;oui;110000-119999;320-340;16500
+F;Bachelors;Commercial;Panel Truck;z_Highly Rural/ Rural;dev_integral;19/05/2022;0;;8741926;80 et plus;oui;oui;non;80000-89999;280-300;63000
+M;<High School;Private;Sports Car;Highly Urban/ Urban;dev_express;24/03/2022;2;7;2332975;70-79 ans;oui;non;non;inconnu;260-280;83300
+M;PhD;Private;Minivan;Highly Urban/ Urban;dev_express;18/01/2022;3;21;5881597;50-59 ans;non;non;oui;70000-79999;260-280;56330
+M;<High School;Private;z_SUV;Highly Urban/ Urban;dev_integral;14/03/2022;7;1;9169445;70-79 ans;oui;non;non;60000-69999;280-300;11200
+F;<High School;Private;z_SUV;z_Highly Rural/ Rural;dev_express;25/01/2022;0;6;3454923;80 et plus;non;non;non;30000-39999;260-280;39700
+F;<High School;Private;Minivan;Highly Urban/ Urban;dev_premium;02/05/2022;0;7;7726685;Moins de 18 ans;non;non;oui;50000-59999;500-520;73800
+M;Bachelors;Commercial;Minivan;Highly Urban/ Urban;dev_express;08/04/2022;7;10;9610186;70-79 ans;non;non;non;70000-79999;260-280;22100
+M;Masters;Commercial;Panel Truck;Highly Urban/ Urban;dev_integral;20/02/2022;5;20;4597806;60-69 ans;non;non;oui;110000-119999;320-340;68170
+M;z_High School;Private;z_SUV;z_Highly Rural/ Rural;dev_integral;03/01/2022;1;8;8334030;80 et plus;non;non;non;20000-29999;320-340;08000
+F;Masters;Private;Minivan;Highly Urban/ Urban;dev_express;27/05/2022;2;20;7548356;60-69 ans;non;non;oui;120000-129999;260-280;44000
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_express;22/05/2022;2;1;4804415;Moins de 18 ans;non;non;non;40000-49999;280-300;37300
+F;z_High School;Private;Minivan;Highly Urban/ Urban;dev_integral;23/01/2022;3;1;8969820;60-69 ans;non;non;non;60000-69999;320-340;87200
+F;Bachelors;Commercial;Van;Highly Urban/ Urban;dev_premium;19/01/2022;6;4;4225797;70-79 ans;non;non;non;80000-89999;460-480;74170
+M;z_High School;Private;Minivan;z_Highly Rural/ Rural;dev_integral;08/05/2022;0;1;5749889;80 et plus;non;oui;non;40000-49999;300-320;79500
